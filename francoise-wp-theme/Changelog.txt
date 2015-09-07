@@ -1,0 +1,45 @@
+Version 1.1.2
+- Fixed: some minor bugs in styles
+- Changed: social links now open new windows/tabs in browser
+- Added: global option "without sidebar" that removes sidebar from single/archive templates
+
+Version 1.1.1
+- Fixed: some minor bugs in styles
+- Improved: widget "About Me"
+
+Version 1.1.0
+- Added: possibility to define custom content instead of placeholder on 5 page templates
+- Added: styles for widget with latest tweets (via free plugin)
+- Added: possibility to add icon 'email' to 'socials' block
+- Changed: switched to FontAwesome version 4.4
+- Added: custom google fonts can be added via theme options
+- Changed: switched to MailChimp API 3.0
+- Added: 'Envato WordPress Toolkit' now bundled with the theme
+- Updated: tested and ready for WP 4.3!
+
+Version 1.0.6
+- Fixed: not showing proper dates for posts on 'Home Page List' template
+
+Version 1.0.5
+- Fixed: some minor bugs
+- Added: 'scheme-custom.css' file into a child theme folder where you can create your own colour scheme
+
+Version 1.0.4
+- Fixed: css bug with footer when there is no a menu and social counters
+- Improved: shortcodes are now stripped from excerpts
+- Added: info box on the theme options page; it shows an important information about hosting environment
+- Updated: TGM script updated to 2.5.2
+- Updated: OptionTree script updated to 2.5.5
+- Fixed: error when trying to activate bundled plugins from a child theme
+
+Version 1.0.3
+- Fixed: bug with subscription form in Mailchimp widget
+
+Version 1.0.2
+- Fixed: minor bugs in responsive version of the theme
+
+Version 1.0.1
+- Fixed: bug on contact page
+
+Version 1.0.0
+- Release

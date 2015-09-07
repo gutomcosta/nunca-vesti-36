@@ -1,0 +1,77 @@
+.headerSocialLinks a:hover {color: #fa7d6c;}
+.mainMenu li.current-post-ancestor > a,
+.mainMenu li.current-menu-item > a, .mainMenu li:hover > a {color: #fa7d6c;}
+.postTime {background: #fa7d6c;}
+.singlePostTime, .archivePostTime, .blogPostTime, .blogPostListTime {color: #fa7d6c;}
+.postCategoryWrap {color: #fa7d6c;}
+.singlePostCategory, .singlePostCategory:visited, .archivePostCategory, .archivePostCategory:visited {color: #fa7d6c;}
+.archivePostItemShareLinks a:hover {background: #fa7d6c;}
+.archivePostReadMore:hover {border-color: #fa7d6c; background: #fa7d6c;color: #fff;}
+.postPagination ul li.current {color: #fa7d6c;}
+.postPagination ul li a:hover {color: #fa7d6c;border-color: #ecf2f2;}
+.followMeSocialLinks a:hover {color: #fa7d6c;}
+.popularPostsWidgetItem time {color: #fa7d6c;}
+.twitterWidget .fa {color: #fa7d6c;}
+.tp_recent_tweets li span:after, .tp_recent_tweets li span:before {color: #fa7d6c;}
+.tp_recent_tweets .bx-wrapper .bx-pager.bx-default-pager a {border: 1px solid #fa7d6c;}
+.tp_recent_tweets .bx-wrapper .bx-pager.bx-default-pager a.active {background: #fa7d6c;}
+.tp_recent_tweets li span a {color: #fa7d6c;}
+.tagcloud a:hover {border-color: #fa7d6c;color: #fa7d6c;}
+.sidebar-widget > ul > li > a:hover {color: #fa7d6c;}
+.sidebar-widget > ul > li > span.comment-author-link,
+.sidebar-widget > ul > li > span a {color: #fa7d6c;}
+.homePageLink, .homePageLink:visited {border: 1px solid #fa7d6c;color: #fa7d6c;}
+.homePageLink:hover {background: #fa7d6c;color: #fff;}
+.pageAboutDesc .locationDesc {color: #fa7d6c;}
+.pageSocialWrapper a:hover {background: #fa7d6c;}
+.submitContactFormBtn {border: 1px solid #fa7d6c;color: #fa7d6c;}
+.submitContactFormBtn:hover {background: #fa7d6c;}
+.wpcf7-form input[type="submit"] {border: 1px solid #fa7d6c;color: #fa7d6c;}
+.wpcf7-form input[type="submit"]:hover {background: #fa7d6c;}
+.singlePostWrap blockquote:before {color: #fa7d6c;}
+.singlePostWrap blockquote p a, .singlePostWrap blockquote p a:visited {color: #fa7d6c;}
+.singlePostWrap blockquote p cite {color: #fa7d6c;}
+.singlePostWrap table th a, .singlePostWrap table th a:visited {color: #fa7d6c;}
+.singlePostWrap table td a, .singlePostWrap table td a:visited {color: #fa7d6c;}
+.singlePostWrap dd a, .singlePostWrap dd a:visited, .singlePostWrap dt a, .singlePostWrap dt a:visited {color: #fa7d6c;}
+.singlePostWrap ul li:before {background: #fa7d6c;}
+.singlePostWrap ol li:before {color: #fa7d6c;}
+.singlePostWrap ol li a, .singlePostWrap ol li a:visited {color: #fa7d6c;}
+.singlePostWrap ins {background: #fa7d6c;}
+.singleLinkPages a {color: #fa7d6c;}
+.singlePostTags a:hover {color: #fa7d6c;}
+.postNavigationItem a:hover {color: #fa7d6c;}
+.comment-edit-link:hover, .comment-reply-link:hover {color: #fa7d6c;}
+.logged-in-as a, .logged-in-as a:visited {color: #fa7d6c;}
+.comment-wrapper span.uni-post-author {background: #fa7d6c;}
+.comment-metadata time {color: #fa7d6c;}
+.comment-content p a, .comment-content p a:visited {color: #fa7d6c;}
+.comment-content blockquote {border-left: 2px solid #fa7d6c;}
+.comment-content blockquote p cite {color: #fa7d6c!important;}
+.comment-content blockquote p a, .singlePostWrap blockquote p a:visited {color: #fa7d6c;}
+.comment-content table th a, .comment-content table th a:visited {color: #fa7d6c;}
+.comment-content table td a, .comment-content table td a:visited {color: #fa7d6c;}
+.comment-content dd a, .comment-content dd a:visited, .comment-content dt a, .comment-content dt a:visited {color: #fa7d6c;}
+.comment-content ul li:before {background: #fa7d6c;}
+.comment-content ol li:before {color: #fa7d6c;}
+.comment-content ol li a, .comment-content ol li a:visited {color: #fa7d6c;}
+.comment-content ins {background: #fa7d6c;}
+#commentform #submit {border: 1px solid #fa7d6c;color: #fa7d6c;}
+#commentform #submit:hover {background: #fa7d6c;color: #fff;}
+
+#header {background: #fbf0ee;}
+.searchPopup {background: rgba(251,240,238,0.96);}
+
+.archivePostItemShareLinks a, .archivePostItemShareLinks a:visited {background: #f4bbb3;}
+.pageSocialWrapper a, .pageSocialWrapper a:visited {background: #f4bbb3;}
+
+/* Sprite */
+.searchIcon:hover {background-position: 0 -160px;}
+.sidebar-widget .search-form .search-submit:hover {background-position: 0 -160px;}
+.subscribeWidget .subscribeWidgetSubmit:hover {background-position: -30px -160px;}
+.postPagination ul li.newPosts a:hover {background-position: 0 -200px;}
+.postPagination ul li.olderPosts a:hover {background-position: 88px -180px;}
+.postNavigationItem a.previousPostLink:hover {background-position: 0 -200px;}
+.postNavigationItem a.newerPostLink:hover {background-position: 87px -180px;}
+.iconLocation {background-position: -60px -160px;}
+.mainMenu li ul li.menu-item-has-children > a {background-image: url(../images/arrow-red.svg);}
