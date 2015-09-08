@@ -1,0 +1,4121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nunca vesti 36\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-07 20:11+0100\n"
+"PO-Revision-Date: 2015-09-08 04:47+0100\n"
+"Last-Translator: Luiz Augusto\n"
+"Language-Team: gutomcosta\n"
+"Language: Portuguese (Brazil)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en_GB\n"
+"X-Loco-Target-Locale: pt_BR\n"
+"X-Loco-Project-Id: 9996\n"
+"X-Loco-Api-Version: 1.0.12"
+
+#: 404.php:5 loco:55ede19c14d725656e8b4567
+msgid "Error 404"
+msgstr "Error 404"
+
+#: 404.php:6 loco:55ede19c14d725656e8b4568
+msgid "The requested page has <br> not been found"
+msgstr "The requested page has <br> not been found"
+
+#: 404.php:7 no-results.php:5 no-results.php:12 loco:55ede19c14d725656e8b4569
+msgid "Homepage"
+msgstr "Homepage"
+
+#: archive.php:4 loco:55ede19c14d725656e8b456a
+msgid "Category"
+msgstr "Categoria"
+
+#: archive.php:6 loco:55ede19c14d725656e8b456b
+msgid "Tag:"
+msgstr "Tag:"
+
+#: archive.php:55 index.php:50 search.php:48
+#: templ-home-slider-no-sidebar.php:147 templ-home-slider.php:147
+#: templ-home.php:222 loco:55ede19c14d725656e8b456c
+msgid "Read More"
+msgstr "Leia mais"
+
+#: archive.php:72 functions.php:449 index.php:67 search.php:65 loco:#: 55ede19c14d725656e8b456d
+msgid "Newer posts"
+msgstr "Novos posts"
+
+#: archive.php:73 functions.php:477 index.php:68 search.php:66 loco:#: 55ede19c14d725656e8b456e
+msgid "Older posts"
+msgstr "Posts antigos"
+
+#: comments.php:45 loco:55ede19c14d725656e8b456f
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:47 loco:55ede19c14d725656e8b4570
+msgid "&larr; Older Comments"
+msgstr "Comentários antigos"
+
+#: comments.php:48 loco:55ede19c14d725656e8b4571
+msgid "Newer Comments &rarr;"
+msgstr "Novos comentários"
+
+#: comments.php:53 loco:55ede19c14d725656e8b4572
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+#: comments.php:60 loco:55ede19c14d725656e8b4573
+msgid "Your name"
+msgstr "Seu Nome"
+
+#: comments.php:61 includes/uniwidget_subscribe_form.php:28 loco:#: 55ede19c14d725656e8b4574
+msgid "Your email"
+msgstr "Seu email"
+
+#: comments.php:64 loco:55ede19c14d725656e8b4575
+msgid "Submit Comment"
+msgstr "Enviar comentário"
+
+#: comments.php:65 loco:55ede19c14d725656e8b4576
+msgid "Post a comment"
+msgstr "Comentar"
+
+#: comments.php:66 loco:55ede19c14d725656e8b4577
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: comments.php:69 loco:55ede19c14d725656e8b4578
+msgid "Your message"
+msgstr "Sua mensagem"
+
+#: comments.php:73 loco:55ede19c14d725656e8b4579
+msgid "Your website"
+msgstr "Seu website"
+
+#: footer.php:156 loco:55ede19c14d725656e8b457a
+msgid "Posts"
+msgstr "Postagens"
+
+#: footer.php:165 loco:55ede19c14d725656e8b457b
+msgid "Comments"
+msgstr "Comentários"
+
+#: footer.php:181 loco:55ede19c14d725656e8b457c
+msgid "Francoise"
+msgstr "Francoise"
+
+#: functions.php:48 loco:55ede19c14d725656e8b457d
+msgid "Default scheme"
+msgstr "Default scheme"
+
+#: functions.php:53 loco:55ede19c14d725656e8b457e
+msgid "Orange colour scheme"
+msgstr "Orange colour scheme"
+
+#: functions.php:58 loco:55ede19c14d725656e8b457f
+msgid "Red colour scheme"
+msgstr "Red colour scheme"
+
+#: functions.php:63 loco:55ede19c14d725656e8b4580
+msgid "Brown colour scheme"
+msgstr "Brown colour scheme"
+
+#: functions.php:68 loco:55ede19c14d725656e8b4581
+msgid "Blue colour scheme"
+msgstr "Blue colour scheme"
+
+#: functions.php:139 loco:55ede19c14d725656e8b4582
+msgid "Page %s"
+msgstr "Page %s"
+
+#: functions.php:232 includes/class-tgm-plugin-activation.php:333 loco:#: 55ede19c14d725656e8b4583
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: functions.php:233 includes/class-tgm-plugin-activation.php:334 loco:#: 55ede19c14d725656e8b4584
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: functions.php:234 includes/class-tgm-plugin-activation.php:335 loco:#: 55ede19c14d725656e8b4585
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: functions.php:235 includes/class-tgm-plugin-activation.php:336 loco:#: 55ede19c14d725656e8b4586
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: functions.php:246 includes/class-tgm-plugin-activation.php:397 loco:#: 55ede19c14d725656e8b4587
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: functions.php:247 includes/class-tgm-plugin-activation.php:399
+#: includes/class-tgm-plugin-activation.php:3029 loco:55ede19c14d725656e8b4588
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: functions.php:248 loco:55ede19c14d725656e8b4589
+msgid "All plugins installed and activated successfully. %s"
+msgstr "All plugins installed and activated successfully. %s"
+
+#: functions.php:355 loco:55ede19c14d725656e8b458a
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:400 loco:55ede19c14d725656e8b458b
+msgid "related posts"
+msgstr "Posts relacionados"
+
+#: functions.php:496 loco:55ede19c14d725656e8b458c
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: functions.php:501 loco:55ede19c14d725656e8b458d
+msgid "words"
+msgstr "words"
+
+#: functions.php:586 loco:55ede19c14d725656e8b458e
+msgid "post author"
+msgstr "Autor do post"
+
+#: functions.php:595 loco:55ede19c14d725656e8b458f
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: functions.php:598 option-tree/includes/ot-functions-admin.php:4026
+#: option-tree/includes/ot-functions-admin.php:4094
+#: option-tree/includes/ot-functions-admin.php:4095
+#: option-tree/includes/ot-functions-admin.php:4257
+#: option-tree/includes/ot-functions-admin.php:4258
+#: option-tree/includes/ot-functions-admin.php:4323
+#: option-tree/includes/ot-functions-admin.php:4324
+#: option-tree/includes/ot-functions-admin.php:4451
+#: option-tree/includes/ot-functions-admin.php:4452
+#: option-tree/includes/ot-functions-admin.php:4604
+#: option-tree/includes/ot-functions-admin.php:4605 loco:55ede19c14d725656e8b4590
+msgid "Edit"
+msgstr "Editar"
+
+#: functions.php:602 loco:55ede19c14d725656e8b4591
+msgid "Your comment is awaiting moderation"
+msgstr "Seu comentário está aguardando moderação"
+
+#: functions.php:625 functions.php:679
+#: includes/class-uni-mailchimp-universal.php:308 loco:55ede19c14d725656e8b4592
+msgid "Error!"
+msgstr "Erro!"
+
+#: functions.php:649 loco:55ede19c14d725656e8b4593
+msgid "You have a new message sent from \"%s\"!"
+msgstr "Você tem uma nova mensagem enviada por \"%s\"!"
+
+#: functions.php:651 loco:55ede19c14d725656e8b4594
+msgid "Contact information"
+msgstr "Informação de contato"
+
+#: functions.php:652 loco:55ede19c14d725656e8b4595
+msgid "Name: %s"
+msgstr "Nome"
+
+#: functions.php:654 loco:55ede19c14d725656e8b4596
+msgid "Email: %s"
+msgstr "Email: %s"
+
+#: functions.php:656 templ-contact.php:70 loco:55ede19c14d725656e8b4597
+msgid "Message"
+msgstr "Message"
+
+#: functions.php:664 loco:55ede19c14d725656e8b4598
+msgid "Thanks! Your message has been sent!"
+msgstr "Obrigado! Sua mensagem foi enviada!"
+
+#: functions.php:667 loco:55ede19c14d725656e8b4599
+msgid "All fields are required!"
+msgstr "All fields are required!"
+
+#: functions.php:698 loco:55ede19c14d725656e8b459a
+msgid "Success!"
+msgstr "Success!"
+
+#: functions.php:705 loco:55ede19c14d725656e8b459b
+msgid "No API key and/or List ID is/are specified!"
+msgstr "No API key and/or List ID is/are specified!"
+
+#: includes/class-tgm-plugin-activation.php:398 loco:55ede19c14d725656e8b459c
+msgid "Return to the dashboard"
+msgstr "Return to the dashboard"
+
+#: includes/class-tgm-plugin-activation.php:400
+#: includes/class-tgm-plugin-activation.php:2832 loco:55ede19c14d725656e8b459d
+msgid "The following plugin was activated successfully:"
+msgstr "The following plugin was activated successfully:"
+
+#: includes/class-tgm-plugin-activation.php:401 loco:55ede19c14d725656e8b459e
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No action taken. Plugin %1$s was already active."
+
+#: includes/class-tgm-plugin-activation.php:402 loco:55ede19c14d725656e8b459f
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+
+#: includes/class-tgm-plugin-activation.php:403 loco:55ede19c14d725656e8b45a0
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: includes/class-tgm-plugin-activation.php:404 loco:55ede19c14d725656e8b45a1
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: includes/class-tgm-plugin-activation.php:405 loco:55ede19c14d725656e8b45a2
+msgid "Please contact the administrator of this site for help."
+msgstr "Please contact the administrator of this site for help."
+
+#: includes/class-tgm-plugin-activation.php:1881 loco:55ede19c14d725656e8b45a3
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/class-tgm-plugin-activation.php:2167 loco:55ede19c14d725656e8b45a4
+msgid "Required"
+msgstr "Required"
+
+#: includes/class-tgm-plugin-activation.php:2170 loco:55ede19c14d725656e8b45a5
+msgid "Recommended"
+msgstr "Recommended"
+
+#: includes/class-tgm-plugin-activation.php:2186 loco:55ede19c14d725656e8b45a6
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: includes/class-tgm-plugin-activation.php:2189 loco:55ede19c14d725656e8b45a7
+msgid "External Source"
+msgstr "External Source"
+
+#: includes/class-tgm-plugin-activation.php:2192 loco:55ede19c14d725656e8b45a8
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: includes/class-tgm-plugin-activation.php:2209 loco:55ede19c14d725656e8b45a9
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: includes/class-tgm-plugin-activation.php:2213 loco:55ede19c14d725656e8b45aa
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: includes/class-tgm-plugin-activation.php:2215
+#: option-tree/includes/ot-functions-option-types.php:1386 loco:#: 55ede19c14d725656e8b45ab
+msgid "Active"
+msgstr "Active"
+
+#: includes/class-tgm-plugin-activation.php:2221 loco:55ede19c14d725656e8b45ac
+msgid "Required Update not Available"
+msgstr "Required Update not Available"
+
+#: includes/class-tgm-plugin-activation.php:2224 loco:55ede19c14d725656e8b45ad
+msgid "Requires Update"
+msgstr "Requires Update"
+
+#: includes/class-tgm-plugin-activation.php:2227 loco:55ede19c14d725656e8b45ae
+msgid "Update recommended"
+msgstr "Update recommended"
+
+#: includes/class-tgm-plugin-activation.php:2235 loco:55ede19c14d725656e8b45af
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: includes/class-tgm-plugin-activation.php:2283 loco:55ede19c14d725656e8b45b0
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr "To Install <span class=\"count\">(%s)</span>"
+
+#: includes/class-tgm-plugin-activation.php:2286 loco:55ede19c14d725656e8b45b1
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr "Update Available <span class=\"count\">(%s)</span>"
+
+#: includes/class-tgm-plugin-activation.php:2289 loco:55ede19c14d725656e8b45b2
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr "To Activate <span class=\"count\">(%s)</span>"
+
+#: includes/class-tgm-plugin-activation.php:2371 loco:55ede19c14d725656e8b45b3
+msgid "unknown"
+msgstr "unknown"
+
+#: includes/class-tgm-plugin-activation.php:2379 loco:55ede19c14d725656e8b45b4
+msgid "Installed version:"
+msgstr "Installed version:"
+
+#: includes/class-tgm-plugin-activation.php:2387 loco:55ede19c14d725656e8b45b5
+msgid "Minimum required version:"
+msgstr "Minimum required version:"
+
+#: includes/class-tgm-plugin-activation.php:2399 loco:55ede19c14d725656e8b45b6
+msgid "Available version:"
+msgstr "Available version:"
+
+#: includes/class-tgm-plugin-activation.php:2422 loco:55ede19c14d725656e8b45b7
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+
+#: includes/class-tgm-plugin-activation.php:2436 loco:55ede19c14d725656e8b45b8
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/class-tgm-plugin-activation.php:2437 loco:55ede19c14d725656e8b45b9
+msgid "Source"
+msgstr "Source"
+
+#: includes/class-tgm-plugin-activation.php:2438
+#: option-tree/includes/ot-functions-docs-page.php:35 loco:#: 55ede19c14d725656e8b45ba
+msgid "Type"
+msgstr "Type"
+
+#: includes/class-tgm-plugin-activation.php:2442 loco:55ede19c14d725656e8b45bb
+msgid "Version"
+msgstr "Version"
+
+#: includes/class-tgm-plugin-activation.php:2443 loco:55ede19c14d725656e8b45bc
+msgid "Status"
+msgstr "Status"
+
+#: includes/class-tgm-plugin-activation.php:2491 loco:55ede19c14d725656e8b45bd
+msgid "Install %2$s"
+msgstr "Install %2$s"
+
+#: includes/class-tgm-plugin-activation.php:2495 loco:55ede19c14d725656e8b45be
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#: includes/class-tgm-plugin-activation.php:2500 loco:55ede19c14d725656e8b45bf
+msgid "Activate %2$s"
+msgstr "Activate %2$s"
+
+#: includes/class-tgm-plugin-activation.php:2603 loco:55ede19c14d725656e8b45c0
+msgid "Install"
+msgstr "Install"
+
+#: includes/class-tgm-plugin-activation.php:2609 loco:55ede19c14d725656e8b45c1
+msgid "Update"
+msgstr "Update"
+
+#: includes/class-tgm-plugin-activation.php:2612
+#: option-tree/includes/ot-functions-admin.php:4382
+#: option-tree/includes/ot-functions-admin.php:4383 loco:55ede19c14d725656e8b45c2
+msgid "Activate"
+msgstr "Activate"
+
+#: includes/class-tgm-plugin-activation.php:2643 loco:55ede19c14d725656e8b45c3
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No plugins were selected to be installed. No action taken."
+
+#: includes/class-tgm-plugin-activation.php:2645 loco:55ede19c14d725656e8b45c4
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No plugins were selected to be updated. No action taken."
+
+#: includes/class-tgm-plugin-activation.php:2681 loco:55ede19c14d725656e8b45c5
+msgid "No plugins are available to be installed at this time."
+msgstr "No plugins are available to be installed at this time."
+
+#: includes/class-tgm-plugin-activation.php:2683 loco:55ede19c14d725656e8b45c6
+msgid "No plugins are available to be updated at this time."
+msgstr "No plugins are available to be updated at this time."
+
+#: includes/class-tgm-plugin-activation.php:3028 loco:55ede19c14d725656e8b45c7
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: includes/class-tgm-plugin-activation.php:3362 loco:55ede19c14d725656e8b45c8
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updating Plugin %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3364 loco:55ede19c14d725656e8b45c9
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: includes/class-tgm-plugin-activation.php:3365 loco:55ede19c14d725656e8b45ca
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: includes/class-tgm-plugin-activation.php:3369 loco:55ede19c14d725656e8b45cb
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+
+#: includes/class-tgm-plugin-activation.php:3370 loco:55ede19c14d725656e8b45cc
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: includes/class-tgm-plugin-activation.php:3371 loco:55ede19c14d725656e8b45cd
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: includes/class-tgm-plugin-activation.php:3372 loco:55ede19c14d725656e8b45ce
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3375 loco:55ede19c14d725656e8b45cf
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+
+#: includes/class-tgm-plugin-activation.php:3377 loco:55ede19c14d725656e8b45d0
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#: includes/class-tgm-plugin-activation.php:3378 loco:55ede19c14d725656e8b45d1
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: includes/instagram-section.php:4 includes/theme-options.php:131 loco:#: 55ede19c14d725656e8b45d2
+msgid "Follow on instagram"
+msgstr "Follow on instagram"
+
+#: includes/theme-options.php:25 includes/theme-options.php:34
+#: option-tree/includes/ot-functions-admin.php:1067 loco:55ede19c14d725656e8b45d3
+msgid "General"
+msgstr "General"
+
+#: includes/theme-options.php:26 loco:55ede19c14d725656e8b45d4
+msgid "Theme options here."
+msgstr "Theme options here."
+
+#: includes/theme-options.php:38 loco:55ede19c14d725656e8b45d5
+msgid "Footer settings"
+msgstr "Footer settings"
+
+#: includes/theme-options.php:42 loco:55ede19c14d725656e8b45d6
+msgid "Logo settings"
+msgstr "Logo settings"
+
+#: includes/theme-options.php:46 includes/theme-options.php:309 loco:#: 55ede19c14d725656e8b45d7
+msgid "Colour schemes"
+msgstr "Colour schemes"
+
+#: includes/theme-options.php:50 loco:55ede19c14d725656e8b45d8
+msgid "Fonts"
+msgstr "Fonts"
+
+#: includes/theme-options.php:54 loco:55ede19c14d725656e8b45d9
+msgid "\"Home\" page settings"
+msgstr "\"Home\" page settings"
+
+#: includes/theme-options.php:58 loco:55ede19c14d725656e8b45da
+msgid "\"Contact\" page settings"
+msgstr "\"Contact\" page settings"
+
+#: includes/theme-options.php:62 loco:55ede19c14d725656e8b45db
+msgid "Mailchimp settings"
+msgstr "Mailchimp settings"
+
+#: includes/theme-options.php:66 loco:55ede19c14d725656e8b45dc
+msgid "Socials"
+msgstr "Socials"
+
+#: includes/theme-options.php:72 loco:55ede19c14d725656e8b45dd
+msgid "General information about hosting environment"
+msgstr "General information about hosting environment"
+
+#: includes/theme-options.php:73 loco:55ede19c14d725656e8b45de
+msgid ""
+"Curl extension is required for Mailchimp subscribe form to function properly. "
+"Status of curl extension: %s"
+msgstr ""
+"Curl extension is required for Mailchimp subscribe form to function properly. "
+"Status of curl extension: %s"
+
+#: includes/theme-options.php:87 loco:55ede19c14d725656e8b45df
+msgid "Single post template/Archive templates style"
+msgstr "Single post template/Archive templates style"
+
+#: includes/theme-options.php:88 loco:55ede19c14d725656e8b45e0
+msgid ""
+"Enables/disables sidebar on single post template and archive templates ("
+"categories, tags). It is a global option and it will be applied for ALL "
+"single/archive templates"
+msgstr ""
+"Enables/disables sidebar on single post template and archive templates ("
+"categories, tags). It is a global option and it will be applied for ALL "
+"single/archive templates"
+
+#: includes/theme-options.php:102 loco:55ede19c14d725656e8b45e1
+msgid "With a sidebar"
+msgstr "With a sidebar"
+
+#: includes/theme-options.php:107 loco:55ede19c14d725656e8b45e2
+msgid "Without a sidebar"
+msgstr "Without a sidebar"
+
+#: includes/theme-options.php:114 loco:55ede19c14d725656e8b45e3
+msgid "Show/hide instagram section"
+msgstr "Show/hide instagram section"
+
+#: includes/theme-options.php:115 loco:55ede19c14d725656e8b45e4
+msgid ""
+"You have to install and activate plugin \"Instagram Feed\" (free on wordpress."
+"org) to use this functionality."
+msgstr ""
+"You have to install and activate plugin \"Instagram Feed\" (free on wordpress."
+"org) to use this functionality."
+
+#: includes/theme-options.php:129 loco:55ede19c14d725656e8b45e5
+msgid "Add custom title for Instagram section. Default is \"Follow on instagram\""
+msgstr "Add custom title for Instagram section. Default is \"Follow on instagram\""
+
+#: includes/theme-options.php:144 loco:55ede19c14d725656e8b45e6
+msgid "Add custom URI for Instagram section. There is no default URI."
+msgstr "Add custom URI for Instagram section. There is no default URI."
+
+#: includes/theme-options.php:159 loco:55ede19c14d725656e8b45e7
+msgid ""
+"Show/hide Facebook social share link everywhere on the website (on Contact "
+"page, at the bottom of the post etc)"
+msgstr ""
+"Show/hide Facebook social share link everywhere on the website (on Contact "
+"page, at the bottom of the post etc)"
+
+#: includes/theme-options.php:174 loco:55ede19c14d725656e8b45e8
+msgid ""
+"Show/hide Twitter social share link everywhere on the website (on Contact "
+"page, at the bottom of the post etc)"
+msgstr ""
+"Show/hide Twitter social share link everywhere on the website (on Contact "
+"page, at the bottom of the post etc)"
+
+#: includes/theme-options.php:189 loco:55ede19c14d725656e8b45e9
+msgid ""
+"Show/hide Pinterest social share link everywhere on the website (on Contact "
+"page, at the bottom of the post etc)"
+msgstr ""
+"Show/hide Pinterest social share link everywhere on the website (on Contact "
+"page, at the bottom of the post etc)"
+
+#: includes/theme-options.php:204 loco:55ede19c14d725656e8b45ea
+msgid ""
+"Show/hide Google+ social share link everywhere on the website (on Contact "
+"page, at the bottom of the post etc)"
+msgstr ""
+"Show/hide Google+ social share link everywhere on the website (on Contact "
+"page, at the bottom of the post etc)"
+
+#: includes/theme-options.php:219 loco:55ede19c14d725656e8b45eb
+msgid "Footer Textblock"
+msgstr "Footer Textblock"
+
+#: includes/theme-options.php:220 loco:55ede19c14d725656e8b45ec
+msgid "Below are some settings for the footer."
+msgstr "Below are some settings for the footer."
+
+#: includes/theme-options.php:234 loco:55ede19c14d725656e8b45ed
+msgid "Show/hide \"Social counters\" section"
+msgstr "Show/hide \"Social counters\" section"
+
+#: includes/theme-options.php:235 loco:55ede19c14d725656e8b45ee
+msgid ""
+"You have to install and activate plugin \"AccessPress Social Counter\" (free "
+"from wordpress.org) to use this functionality."
+msgstr ""
+"You have to install and activate plugin \"AccessPress Social Counter\" (free "
+"from wordpress.org) to use this functionality."
+
+#: includes/theme-options.php:249 loco:55ede19c14d725656e8b45ef
+msgid "Text in the footer"
+msgstr "Text in the footer"
+
+#: includes/theme-options.php:250 loco:55ede19c14d725656e8b45f0
+msgid "Add your own text to the footer"
+msgstr "Add your own text to the footer"
+
+#: includes/theme-options.php:264
+#: option-tree/assets/theme-mode/demo-theme-options.php:724
+#: option-tree/includes/ot-functions-admin.php:2457
+#: option-tree/includes/ot-functions-docs-page.php:371 loco:#: 55ede19c14d725656e8b45f1
+msgid "Textblock"
+msgstr "Textblock"
+
+#: includes/theme-options.php:265 loco:55ede19c14d725656e8b45f2
+msgid ""
+"This theme displays two different logo images for desktop and mobile version. "
+"For the desktop version of the logo there is enough space for literally any "
+"size. However for the mobile version it is better to upload an image not "
+"larger then 180x30 px."
+msgstr ""
+"This theme displays two different logo images for desktop and mobile version. "
+"For the desktop version of the logo there is enough space for literally any "
+"size. However for the mobile version it is better to upload an image not "
+"larger then 180x30 px."
+
+#: includes/theme-options.php:279 loco:55ede19c14d725656e8b45f3
+msgid "Logo image for desktop"
+msgstr "Logo image for desktop"
+
+#: includes/theme-options.php:280 loco:55ede19c14d725656e8b45f4
+msgid "This image will be used for desktop version."
+msgstr "This image will be used for desktop version."
+
+#: includes/theme-options.php:294 loco:55ede19c14d725656e8b45f5
+msgid "Logo image for mobile version"
+msgstr "Logo image for mobile version"
+
+#: includes/theme-options.php:295 loco:55ede19c14d725656e8b45f6
+msgid "This image will be used for mobile version of the website."
+msgstr "This image will be used for mobile version of the website."
+
+#: includes/theme-options.php:310 loco:55ede19c14d725656e8b45f7
+msgid "You can choose a desired colour scheme here. The default is the first one."
+msgstr "You can choose a desired colour scheme here. The default is the first one."
+
+#: includes/theme-options.php:324 loco:55ede19c14d725656e8b45f8
+msgid "Custom Google Fonts"
+msgstr "Custom Google Fonts"
+
+#: includes/theme-options.php:325 loco:55ede19c14d725656e8b45f9
+msgid ""
+"You can define custom Google fonts here. Please, use the first for regular "
+"text and the second for headings. Default are: Merriweather (regular) and "
+"Josefin Sans (600, regular)"
+msgstr ""
+"You can define custom Google fonts here. Please, use the first for regular "
+"text and the second for headings. Default are: Merriweather (regular) and "
+"Josefin Sans (600, regular)"
+
+#: includes/theme-options.php:350 loco:55ede19c14d725656e8b45fa
+msgid "4 promo posts for unique grid on home page"
+msgstr "4 promo posts for unique grid on home page"
+
+#: includes/theme-options.php:351 loco:55ede19c14d725656e8b45fb
+msgid ""
+"Below you can see 4 dropdowns. Please, select 4 posts here, these posts will "
+"be shown on home page in unique grid below the slider. Otherwise, 4 recent "
+"posts will be shown. Attention: if you don't have at least 4 published posts, "
+"this section doesn't appear at all!"
+msgstr ""
+"Below you can see 4 dropdowns. Please, select 4 posts here, these posts will "
+"be shown on home page in unique grid below the slider. Otherwise, 4 recent "
+"posts will be shown. Attention: if you don't have at least 4 published posts, "
+"this section doesn't appear at all!"
+
+#: includes/theme-options.php:365 loco:55ede19c14d725656e8b45fc
+msgid "Post #1"
+msgstr "Post #1"
+
+#: includes/theme-options.php:380 loco:55ede19c14d725656e8b45fd
+msgid "Post #2"
+msgstr "Post #2"
+
+#: includes/theme-options.php:395 loco:55ede19c14d725656e8b45fe
+msgid "Post #3"
+msgstr "Post #3"
+
+#: includes/theme-options.php:410 loco:55ede19c14d725656e8b45ff
+msgid "Post #4"
+msgstr "Post #4"
+
+#: includes/theme-options.php:425 loco:55ede19c14d725656e8b4600
+msgid "Phone number to be displayed on the \"Contact Us\" page"
+msgstr "Phone number to be displayed on the \"Contact Us\" page"
+
+#: includes/theme-options.php:440 loco:55ede19c14d725656e8b4601
+msgid "Email to be displayed on the \"Contact Us\" page"
+msgstr "Email to be displayed on the \"Contact Us\" page"
+
+#: includes/theme-options.php:441 loco:55ede19c14d725656e8b4602
+msgid ""
+"Also an information submitted via contact form will be sent to this email "
+"address"
+msgstr ""
+"Also an information submitted via contact form will be sent to this email "
+"address"
+
+#: includes/theme-options.php:455 loco:55ede19c14d725656e8b4603
+msgid "OR you can utilise Contact Form 7 form..."
+msgstr "OR you can utilise Contact Form 7 form..."
+
+#: includes/theme-options.php:456 loco:55ede19c14d725656e8b4604
+msgid ""
+"... Just activate your Contact Form 7 plugin and define here the ID of the "
+"form"
+msgstr ""
+"... Just activate your Contact Form 7 plugin and define here the ID of the "
+"form"
+
+#: includes/theme-options.php:470 loco:55ede19c14d725656e8b4605
+msgid "MailChimp API Key"
+msgstr "MailChimp API Key"
+
+#: includes/theme-options.php:471 loco:55ede19c14d725656e8b4606
+msgid "Add your MailChimp API Key"
+msgstr "Add your MailChimp API Key"
+
+#: includes/theme-options.php:485 loco:55ede19c14d725656e8b4607
+msgid "MailChimp List ID"
+msgstr "MailChimp List ID"
+
+#: includes/theme-options.php:486 loco:55ede19c14d725656e8b4608
+msgid "Add your MailChimp List ID"
+msgstr "Add your MailChimp List ID"
+
+#: includes/theme-options.php:500 loco:55ede19c14d725656e8b4609
+msgid "Socials Textblock"
+msgstr "Socials Textblock"
+
+#: includes/theme-options.php:501 loco:55ede19c14d725656e8b460a
+msgid ""
+"Below you can add links to your social profiles. The icon of certain social "
+"media will appear only if an uri added and saved to this field."
+msgstr ""
+"Below you can add links to your social profiles. The icon of certain social "
+"media will appear only if an uri added and saved to this field."
+
+#: includes/theme-options.php:515 loco:55ede19c14d725656e8b460b
+msgid "Add an Email link"
+msgstr "Add an Email link"
+
+#: includes/theme-options.php:530 loco:55ede19c14d725656e8b460c
+msgid "Add a link to Facebook profile"
+msgstr "Add a link to Facebook profile"
+
+#: includes/theme-options.php:545 loco:55ede19c14d725656e8b460d
+msgid "Add a link to YouTube profile"
+msgstr "Add a link to YouTube profile"
+
+#: includes/theme-options.php:560 loco:55ede19c14d725656e8b460e
+msgid "Add a link to Vimeo profile"
+msgstr "Add a link to Vimeo profile"
+
+#: includes/theme-options.php:575 loco:55ede19c14d725656e8b460f
+msgid "Add a link to Twitter account"
+msgstr "Add a link to Twitter account"
+
+#: includes/theme-options.php:590 loco:55ede19c14d725656e8b4610
+msgid "Add a link to Google Plus profile"
+msgstr "Add a link to Google Plus profile"
+
+#: includes/theme-options.php:605 loco:55ede19c14d725656e8b4611
+msgid "Add a link to Instagram profile"
+msgstr "Add a link to Instagram profile"
+
+#: includes/theme-options.php:620 loco:55ede19c14d725656e8b4612
+msgid "Add a link to LinkedIn profile"
+msgstr "Add a link to LinkedIn profile"
+
+#: includes/theme-options.php:635 loco:55ede19c14d725656e8b4613
+msgid "Add a link to Pinterest profile"
+msgstr "Add a link to Pinterest profile"
+
+#: includes/theme-options.php:650 loco:55ede19c14d725656e8b4614
+msgid "Add a link to Bloglovin account"
+msgstr "Add a link to Bloglovin account"
+
+#: includes/theme-options.php:665 loco:55ede19c14d725656e8b4615
+msgid "Add a link to Foursquare profile"
+msgstr "Add a link to Foursquare profile"
+
+#: includes/theme-options.php:680 loco:55ede19c14d725656e8b4616
+msgid "Add a link to Flickr profile"
+msgstr "Add a link to Flickr profile"
+
+#: includes/theme-options.php:695 loco:55ede19c14d725656e8b4617
+msgid "Add a link to Dribble profile"
+msgstr "Add a link to Dribble profile"
+
+#: includes/theme-options.php:710 loco:55ede19c14d725656e8b4618
+msgid "Add a link to Behance profile"
+msgstr "Add a link to Behance profile"
+
+#: includes/theme-options.php:725 loco:55ede19c14d725656e8b4619
+msgid "Add a link to Vkontakte profile"
+msgstr "Add a link to Vkontakte profile"
+
+#: includes/uni-metabox.php:17 loco:55ede19c14d725656e8b461a
+msgid "Parameters for \"About\" page"
+msgstr "Parameters for \"About\" page"
+
+#: includes/uni-metabox.php:24 includes/uni-metabox.php:47 loco:#: 55ede19c14d725656e8b461b
+msgid "Additional info"
+msgstr "Additional info"
+
+#: includes/uni-metabox.php:29 loco:55ede19c14d725656e8b461c
+msgid "Add your location"
+msgstr "Add your location"
+
+#: includes/uni-metabox.php:40 loco:55ede19c14d725656e8b461d
+msgid "Parameters for \"Contact\" page"
+msgstr "Parameters for \"Contact\" page"
+
+#: includes/uni-metabox.php:55 loco:55ede19c14d725656e8b461e
+msgid ""
+"A lot of options for this page is also located on <a href=\"%s\">theme options "
+"page</a>."
+msgstr ""
+"A lot of options for this page is also located on <a href=\"%s\">theme options "
+"page</a>."
+
+#: includes/uni-metabox.php:60 loco:55ede19c14d725656e8b461f
+msgid "Enable contact form?"
+msgstr "Enable contact form?"
+
+#: includes/uni-metabox.php:63 loco:55ede19c14d725656e8b4620
+msgid "Show or hide contact form"
+msgstr "Show or hide contact form"
+
+#: includes/uni-metabox.php:67 loco:55ede19c14d725656e8b4621
+msgid "Custom title above the contact form"
+msgstr "Custom title above the contact form"
+
+#: includes/uni-metabox.php:70 templ-contact.php:38 templ-contact.php:49 loco:#: 55ede19c14d725656e8b4622
+msgid "Say hello"
+msgstr "Say hello"
+
+#: includes/uni-metabox.php:77 includes/uni-metabox.php:194 loco:#: 55ede19c14d725656e8b4623
+msgid "Parameters for home page templates"
+msgstr "Parameters for home page templates"
+
+#: includes/uni-metabox.php:84 loco:55ede19c14d725656e8b4624
+msgid "Posts content"
+msgstr "Posts content"
+
+#: includes/uni-metabox.php:90 loco:55ede19c14d725656e8b4625
+msgid "Posts for slider"
+msgstr "Posts for slider"
+
+#: includes/uni-metabox.php:91 loco:55ede19c14d725656e8b4626
+msgid ""
+"Chosen posts will be added to slider and excluded from the second query on "
+"this page (if this second query exists)."
+msgstr ""
+"Chosen posts will be added to slider and excluded from the second query on "
+"this page (if this second query exists)."
+
+#: includes/uni-metabox.php:104 includes/uni-metabox.php:201 loco:#: 55ede19c14d725656e8b4627
+msgid "Custom content"
+msgstr "Custom content"
+
+#: includes/uni-metabox.php:112 includes/uni-metabox.php:209 loco:#: 55ede19c14d725656e8b4628
+msgid ""
+"It is possible to define a custom content here. You have to choose/upload "
+"image, add title and URI, otherwise custom content won't be displayed! Also "
+"it will be shown ONLY if no posts have been selected on \"Posts content\" tab!"
+msgstr ""
+"It is possible to define a custom content here. You have to choose/upload "
+"image, add title and URI, otherwise custom content won't be displayed! Also "
+"it will be shown ONLY if no posts have been selected on \"Posts content\" tab!"
+
+#: includes/uni-metabox.php:118 includes/uni-metabox.php:215 loco:#: 55ede19c14d725656e8b4629
+msgid "Upload Image"
+msgstr "Upload Image"
+
+#: includes/uni-metabox.php:119 includes/uni-metabox.php:216 loco:#: 55ede19c14d725656e8b462a
+msgid "Upload custom image"
+msgstr "Upload custom image"
+
+#: includes/uni-metabox.php:132 includes/uni-metabox.php:229
+#: option-tree/includes/ot-functions-admin.php:4419
+#: option-tree/includes/ot-meta-box-api.php:231
+#: option-tree/includes/ot-settings-api.php:610 loco:55ede19c14d725656e8b462b
+msgid "Title"
+msgstr "Title"
+
+#: includes/uni-metabox.php:135 includes/uni-metabox.php:232 loco:#: 55ede19c14d725656e8b462c
+msgid "Add custom title"
+msgstr "Add custom title"
+
+#: includes/uni-metabox.php:139 includes/uni-metabox.php:236 loco:#: 55ede19c14d725656e8b462d
+msgid "Standard colour of the title"
+msgstr "Standard colour of the title"
+
+#: includes/uni-metabox.php:140 includes/uni-metabox.php:237 loco:#: 55ede19c14d725656e8b462e
+msgid "Choose standard colour of the title."
+msgstr "Choose standard colour of the title."
+
+#: includes/uni-metabox.php:154 includes/uni-metabox.php:251 loco:#: 55ede19c14d725656e8b462f
+msgid "Hover colour of the title"
+msgstr "Hover colour of the title"
+
+#: includes/uni-metabox.php:155 includes/uni-metabox.php:252 loco:#: 55ede19c14d725656e8b4630
+msgid "Choose hover colour of the title."
+msgstr "Choose hover colour of the title."
+
+#: includes/uni-metabox.php:169 includes/uni-metabox.php:266 loco:#: 55ede19c14d725656e8b4631
+msgid "Colour and opacity for overlay"
+msgstr "Colour and opacity for overlay"
+
+#: includes/uni-metabox.php:170 includes/uni-metabox.php:267 loco:#: 55ede19c14d725656e8b4632
+msgid "Choose colour and opacity for overlay"
+msgstr "Choose colour and opacity for overlay"
+
+#: includes/uni-metabox.php:184 includes/uni-metabox.php:281 loco:#: 55ede19c14d725656e8b4633
+msgid "URI"
+msgstr "URI"
+
+#: includes/uni-metabox.php:187 includes/uni-metabox.php:284 loco:#: 55ede19c14d725656e8b4634
+msgid "Add custom URI"
+msgstr "Add custom URI"
+
+#: includes/uniwidget_about_me.php:5 loco:55ede19c14d725656e8b4635
+msgid "Displays some information about chosen user"
+msgstr "Displays some information about chosen user"
+
+#: includes/uniwidget_about_me.php:30 loco:55ede19c14d725656e8b4636
+msgid "It seems that user with such ID doesn't exist"
+msgstr "It seems that user with such ID doesn't exist"
+
+#: includes/uniwidget_about_me.php:50 loco:55ede19c14d725656e8b4637
+msgid "A escrevinhadora das interwebs"
+msgstr "A escrevinhadora das interwebs"
+
+#: includes/uniwidget_about_me.php:57 includes/uniwidget_popular_posts.php:82
+#: includes/uniwidget_social_links.php:117
+#: includes/uniwidget_subscribe_form.php:58 loco:55ede19c14d725656e8b4638
+msgid "Title:"
+msgstr "Title:"
+
+#: includes/uniwidget_about_me.php:62 loco:55ede19c14d725656e8b4639
+msgid "User:"
+msgstr "User:"
+
+#: includes/uniwidget_popular_posts.php:5 loco:55ede19c14d725656e8b463a
+msgid "Displays your popular posts"
+msgstr "Displays your popular posts"
+
+#: includes/uniwidget_popular_posts.php:54 loco:55ede19c14d725656e8b463b
+msgid "No popular posts"
+msgstr "No popular posts"
+
+#: includes/uniwidget_popular_posts.php:75 loco:55ede19c14d725656e8b463c
+msgid "Popular posts"
+msgstr "Popular posts"
+
+#: includes/uniwidget_popular_posts.php:87 loco:55ede19c14d725656e8b463d
+msgid "Posts count:"
+msgstr "Posts count:"
+
+#: includes/uniwidget_social_links.php:5 loco:55ede19c14d725656e8b463e
+msgid "Displays links to social profiles"
+msgstr "Displays links to social profiles"
+
+#: includes/uniwidget_social_links.php:111 loco:55ede19c14d725656e8b463f
+msgid "Follow me"
+msgstr "Follow me"
+
+#: includes/uniwidget_subscribe_form.php:6 loco:55ede19c14d725656e8b4640
+msgid "Adds Mailchimp subscribe form"
+msgstr "Adds Mailchimp subscribe form"
+
+#: includes/uniwidget_subscribe_form.php:29 loco:55ede19c14d725656e8b4641
+msgid "Submit"
+msgstr "Submit"
+
+#: includes/uniwidget_subscribe_form.php:51 loco:55ede19c14d725656e8b4642
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: includes/uniwidget_subscribe_form.php:52 loco:55ede19c14d725656e8b4643
+msgid "Follow my latest news"
+msgstr "Follow my latest news"
+
+#: includes/uniwidget_subscribe_form.php:63 loco:55ede19c14d725656e8b4644
+msgid "Subtitle:"
+msgstr "Subtitle:"
+
+#: no-results.php:3 search.php:9 loco:55ede19c14d725656e8b4645
+msgid "Search results for: \"%s\""
+msgstr "Search results for: \"%s\""
+
+#: no-results.php:4 no-results.php:9 loco:55ede19c14d725656e8b4646
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: no-results.php:4 loco:55ede19c14d725656e8b4647
+msgid ""
+"Sorry, but nothing matched your search terms. <br> Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, but nothing matched your search terms. <br> Please try again with some "
+"different keywords."
+
+#: no-results.php:10 loco:55ede19c14d725656e8b4648
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for."
+
+#: option-tree/assets/theme-mode/demo-meta-boxes.php:23 loco:#: 55ede19c14d725656e8b4649
+msgid "Demo Meta Box"
+msgstr "Demo Meta Box"
+
+#: option-tree/assets/theme-mode/demo-meta-boxes.php:30 loco:#: 55ede19c14d725656e8b464a
+msgid "Conditions"
+msgstr "Conditions"
+
+#: option-tree/assets/theme-mode/demo-meta-boxes.php:35 loco:#: 55ede19c14d725656e8b464b
+msgid "Show Gallery"
+msgstr "Show Gallery"
+
+#: option-tree/assets/theme-mode/demo-meta-boxes.php:38 loco:#: 55ede19c14d725656e8b464c
+msgid "Shows the Gallery when set to %s."
+msgstr "Shows the Gallery when set to %s."
+
+#: option-tree/assets/theme-mode/demo-meta-boxes.php:45 loco:#: 55ede19c14d725656e8b464d
+msgid "Congratulations, you created a gallery!"
+msgstr "Congratulations, you created a gallery!"
+
+#: option-tree/assets/theme-mode/demo-meta-boxes.php:50
+#: option-tree/assets/theme-mode/demo-theme-options.php:273
+#: option-tree/includes/ot-functions-admin.php:2430
+#: option-tree/includes/ot-functions-admin.php:5465
+#: option-tree/includes/ot-functions-docs-page.php:168 loco:#: 55ede19c14d725656e8b464e
+msgid "Gallery"
+msgstr "Gallery"
+
+#: option-tree/assets/theme-mode/demo-meta-boxes.php:53 loco:#: 55ede19c14d725656e8b464f
+msgid "This is a Gallery option type. It displays when %s."
+msgstr "This is a Gallery option type. It displays when %s."
+
+#: option-tree/assets/theme-mode/demo-meta-boxes.php:57 loco:#: 55ede19c14d725656e8b4650
+msgid "More Options"
+msgstr "More Options"
+
+#: option-tree/assets/theme-mode/demo-meta-boxes.php:62
+#: option-tree/assets/theme-mode/demo-theme-options.php:679
+#: option-tree/includes/ot-functions-admin.php:2454
+#: option-tree/includes/ot-functions-docs-page.php:293 loco:#: 55ede19c14d725656e8b4651
+msgid "Text"
+msgstr "Text"
+
+#: option-tree/assets/theme-mode/demo-meta-boxes.php:65 loco:#: 55ede19c14d725656e8b4652
+msgid "This is a demo Text field."
+msgstr "This is a demo Text field."
+
+#: option-tree/assets/theme-mode/demo-meta-boxes.php:68
+#: option-tree/assets/theme-mode/demo-theme-options.php:694
+#: option-tree/includes/ot-functions-admin.php:2455
+#: option-tree/includes/ot-functions-docs-page.php:296 loco:#: 55ede19c14d725656e8b4653
+msgid "Textarea"
+msgstr "Textarea"
+
+#: option-tree/assets/theme-mode/demo-meta-boxes.php:71 loco:#: 55ede19c14d725656e8b4654
+msgid "This is a demo Textarea field."
+msgstr "This is a demo Textarea field."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:33
+#: option-tree/assets/theme-mode/demo-theme-options.php:42
+#: option-tree/includes/ot-functions-admin.php:231 loco:55ede19c14d725656e8b4655
+msgid "Option Types"
+msgstr "Option Types"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:34 loco:#: 55ede19c14d725656e8b4656
+msgid "Help content goes here!"
+msgstr "Help content goes here!"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:37 loco:#: 55ede19c14d725656e8b4657
+msgid "Sidebar content goes here!"
+msgstr "Sidebar content goes here!"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:48
+#: option-tree/includes/ot-functions-admin.php:2416
+#: option-tree/includes/ot-functions-docs-page.php:110 loco:#: 55ede19c14d725656e8b4658
+msgid "Background"
+msgstr "Background"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:49
+#: option-tree/includes/ot-functions-docs-page.php:111 loco:#: 55ede19c14d725656e8b4659
+msgid ""
+"The Background option type is for adding background styles to your theme "
+"either dynamically via the CSS option type below or manually with %s. The "
+"Background option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+"The Background option type is for adding background styles to your theme "
+"either dynamically via the CSS option type below or manually with %s. The "
+"Background option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:49
+#: option-tree/assets/theme-mode/demo-theme-options.php:755
+#: option-tree/includes/ot-functions-admin.php:4220
+#: option-tree/includes/ot-functions-docs-page.php:111
+#: option-tree/includes/ot-functions-docs-page.php:378 loco:#: 55ede19c14d725656e8b465a
+msgid "and"
+msgstr "and"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:63
+#: option-tree/includes/ot-functions-admin.php:2417
+#: option-tree/includes/ot-functions-docs-page.php:113 loco:#: 55ede19c14d725656e8b465b
+msgid "Border"
+msgstr "Border"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:64 loco:#: 55ede19c14d725656e8b465c
+msgid "The Border option type is used to set width, unit, style, and color values."
+msgstr "The Border option type is used to set width, unit, style, and color values."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:78
+#: option-tree/includes/ot-functions-admin.php:2418
+#: option-tree/includes/ot-functions-docs-page.php:116 loco:#: 55ede19c14d725656e8b465d
+msgid "Box Shadow"
+msgstr "Box Shadow"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:79
+#: option-tree/includes/ot-functions-docs-page.php:117 loco:#: 55ede19c14d725656e8b465e
+msgid "The Box Shadow option type is used to set %s, %s, %s, %s, %s, and %s values."
+msgstr "The Box Shadow option type is used to set %s, %s, %s, %s, %s, and %s values."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:93
+#: option-tree/includes/ot-functions-admin.php:2419
+#: option-tree/includes/ot-functions-docs-page.php:119 loco:#: 55ede19c14d725656e8b465f
+msgid "Category Checkbox"
+msgstr "Category Checkbox"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:94
+#: option-tree/includes/ot-functions-docs-page.php:120 loco:#: 55ede19c14d725656e8b4660
+msgid ""
+"The Category Checkbox option type displays a list of category IDs. It allows "
+"the user to check multiple category IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+"The Category Checkbox option type displays a list of category IDs. It allows "
+"the user to check multiple category IDs and will return that value as an "
+"array for use in a custom function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:108
+#: option-tree/includes/ot-functions-admin.php:2420
+#: option-tree/includes/ot-functions-docs-page.php:122 loco:#: 55ede19c14d725656e8b4661
+msgid "Category Select"
+msgstr "Selecionar categoria"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:109
+#: option-tree/includes/ot-functions-docs-page.php:123 loco:#: 55ede19c14d725656e8b4662
+msgid ""
+"The Category Select option type displays a list of category IDs. It allows "
+"the user to select only one category ID and will return that value for use in "
+"a custom function or loop."
+msgstr ""
+"The Category Select option type displays a list of category IDs. It allows "
+"the user to select only one category ID and will return that value for use in "
+"a custom function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:123
+#: option-tree/includes/ot-functions-admin.php:2421
+#: option-tree/includes/ot-functions-docs-page.php:125 loco:#: 55ede19c14d725656e8b4663
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:124
+#: option-tree/includes/ot-functions-docs-page.php:126 loco:#: 55ede19c14d725656e8b4664
+msgid ""
+"The Checkbox option type displays a group of choices. It allows the user to "
+"check multiple choices and will return that value as an array for use in a "
+"custom function or loop."
+msgstr ""
+"The Checkbox option type displays a group of choices. It allows the user to "
+"check multiple choices and will return that value as an array for use in a "
+"custom function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:138
+#: option-tree/assets/theme-mode/demo-theme-options.php:510
+#: option-tree/assets/theme-mode/demo-theme-options.php:562 loco:#: 55ede19c14d725656e8b4665
+msgid "No"
+msgstr "No"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:143
+#: option-tree/assets/theme-mode/demo-theme-options.php:505
+#: option-tree/assets/theme-mode/demo-theme-options.php:557 loco:#: 55ede19c14d725656e8b4666
+msgid "Yes"
+msgstr "Yes"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:150
+#: option-tree/includes/ot-functions-admin.php:2422
+#: option-tree/includes/ot-functions-docs-page.php:128 loco:#: 55ede19c14d725656e8b4667
+msgid "Colorpicker"
+msgstr "Colorpicker"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:151
+#: option-tree/includes/ot-functions-docs-page.php:129 loco:#: 55ede19c14d725656e8b4668
+msgid ""
+"The Colorpicker option type saves a hexadecimal color code for use in CSS. "
+"Use it to modify the color of something in your theme."
+msgstr ""
+"The Colorpicker option type saves a hexadecimal color code for use in CSS. "
+"Use it to modify the color of something in your theme."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:165
+#: option-tree/assets/theme-mode/demo-theme-options.php:166
+#: option-tree/includes/ot-functions-admin.php:2423
+#: option-tree/includes/ot-functions-docs-page.php:131 loco:#: 55ede19c14d725656e8b4669
+msgid "Colorpicker Opacity"
+msgstr "Colorpicker Opacity"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:167 loco:#: 55ede19c14d725656e8b466a
+msgid ""
+"The Colorpicker Opacity option type saves an rgba color value for use in CSS. "
+"To add opacity to other colorpickers add the %s class to the %s array."
+msgstr ""
+"The Colorpicker Opacity option type saves an rgba color value for use in CSS. "
+"To add opacity to other colorpickers add the %s class to the %s array."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:181
+#: option-tree/includes/ot-functions-admin.php:2424
+#: option-tree/includes/ot-functions-docs-page.php:134 loco:#: 55ede19c14d725656e8b466b
+msgid "CSS"
+msgstr "CSS"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:182
+#: option-tree/includes/ot-functions-docs-page.php:135 loco:#: 55ede19c14d725656e8b466c
+msgid ""
+"The CSS option type is a textarea that when used properly can add dynamic CSS "
+"to your theme from within OptionTree. Unfortunately, due server limitations "
+"you will need to create a file named %s at the root level of your theme and "
+"change permissions using %s so the server can write to the file. I have had "
+"the most success setting this single file to %s but feel free to play around "
+"with permissions until everything is working. A good starting point is %s. "
+"When the server can save to the file, CSS will automatically be updated when "
+"you save your Theme Options."
+msgstr ""
+"The CSS option type is a textarea that when used properly can add dynamic CSS "
+"to your theme from within OptionTree. Unfortunately, due server limitations "
+"you will need to create a file named %s at the root level of your theme and "
+"change permissions using %s so the server can write to the file. I have had "
+"the most success setting this single file to %s but feel free to play around "
+"with permissions until everything is working. A good starting point is %s. "
+"When the server can save to the file, CSS will automatically be updated when "
+"you save your Theme Options."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:182
+#: option-tree/includes/ot-functions-docs-page.php:137 loco:#: 55ede19c14d725656e8b466d
+msgid ""
+"This example assumes you have an option with the ID of %1$s. Which means this "
+"option will automatically insert the value of %1$s into the %2$s when the "
+"Theme Options are saved."
+msgstr ""
+"This example assumes you have an option with the ID of %1$s. Which means this "
+"option will automatically insert the value of %1$s into the %2$s when the "
+"Theme Options are saved."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:198
+#: option-tree/includes/ot-functions-admin.php:2425
+#: option-tree/includes/ot-functions-docs-page.php:153 loco:#: 55ede19c14d725656e8b466e
+msgid "Custom Post Type Checkbox"
+msgstr "Custom Post Type Checkbox"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:199
+#: option-tree/includes/ot-functions-docs-page.php:154 loco:#: 55ede19c14d725656e8b466f
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It allows the user to "
+"check multiple post IDs for use in a custom function or loop. Requires at "
+"least one valid %1$s in the %1$s field."
+msgstr ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It allows the user to "
+"check multiple post IDs for use in a custom function or loop. Requires at "
+"least one valid %1$s in the %1$s field."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:213
+#: option-tree/includes/ot-functions-admin.php:2426
+#: option-tree/includes/ot-functions-docs-page.php:156 loco:#: 55ede19c14d725656e8b4670
+msgid "Custom Post Type Select"
+msgstr "Custom Post Type Select"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:214
+#: option-tree/includes/ot-functions-docs-page.php:157 loco:#: 55ede19c14d725656e8b4671
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It will return a single "
+"post ID for use in a custom function or loop. Requires at least one valid %1$"
+"s in the %1$s field."
+msgstr ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It will return a single "
+"post ID for use in a custom function or loop. Requires at least one valid %1$"
+"s in the %1$s field."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:228
+#: option-tree/includes/ot-functions-admin.php:2427
+#: option-tree/includes/ot-functions-docs-page.php:159 loco:#: 55ede19c14d725656e8b4672
+msgid "Date Picker"
+msgstr "Date Picker"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:229
+#: option-tree/includes/ot-functions-docs-page.php:160 loco:#: 55ede19c14d725656e8b4673
+msgid ""
+"The Date Picker option type is tied to a standard form input field which "
+"displays a calendar pop-up that allow the user to pick any date when focus is "
+"given to the input field. The returned value is a date formatted string."
+msgstr ""
+"The Date Picker option type is tied to a standard form input field which "
+"displays a calendar pop-up that allow the user to pick any date when focus is "
+"given to the input field. The returned value is a date formatted string."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:243
+#: option-tree/includes/ot-functions-admin.php:2428
+#: option-tree/includes/ot-functions-docs-page.php:162 loco:#: 55ede19c14d725656e8b4674
+msgid "Date Time Picker"
+msgstr "Date Time Picker"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:244
+#: option-tree/includes/ot-functions-docs-page.php:163 loco:#: 55ede19c14d725656e8b4675
+msgid ""
+"The Date Time Picker option type is tied to a standard form input field which "
+"displays a calendar pop-up that allow the user to pick any date and time when "
+"focus is given to the input field. The returned value is a date and time "
+"formatted string."
+msgstr ""
+"The Date Time Picker option type is tied to a standard form input field which "
+"displays a calendar pop-up that allow the user to pick any date and time when "
+"focus is given to the input field. The returned value is a date and time "
+"formatted string."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:258
+#: option-tree/includes/ot-functions-admin.php:2429
+#: option-tree/includes/ot-functions-docs-page.php:165 loco:#: 55ede19c14d725656e8b4676
+msgid "Dimension"
+msgstr "Dimension"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:259 loco:#: 55ede19c14d725656e8b4677
+msgid "The Dimension option type is used to set width and height values."
+msgstr "The Dimension option type is used to set width and height values."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:274
+#: option-tree/includes/ot-functions-docs-page.php:169 loco:#: 55ede19c14d725656e8b4678
+msgid ""
+"The Gallery option type saves a comma separated list of image attachment IDs. "
+"You will need to create a front-end function to display the images in your "
+"theme."
+msgstr ""
+"The Gallery option type saves a comma separated list of image attachment IDs. "
+"You will need to create a front-end function to display the images in your "
+"theme."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:288 loco:#: 55ede19c14d725656e8b4679
+msgid "Gallery Shortcode"
+msgstr "Gallery Shortcode"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:289 loco:#: 55ede19c14d725656e8b467a
+msgid ""
+"The Gallery option type can also be saved as a shortcode by adding %s to the "
+"class attribute. Using the Gallery option type in this manner will result in "
+"a better user experience as you're able to save the link, column, and order "
+"settings."
+msgstr ""
+"The Gallery option type can also be saved as a shortcode by adding %s to the "
+"class attribute. Using the Gallery option type in this manner will result in "
+"a better user experience as you're able to save the link, column, and order "
+"settings."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:303
+#: option-tree/includes/ot-functions-admin.php:2431
+#: option-tree/includes/ot-functions-docs-page.php:171 loco:#: 55ede19c14d725656e8b467b
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:304
+#: option-tree/includes/ot-functions-docs-page.php:172 loco:#: 55ede19c14d725656e8b467c
+msgid ""
+"The Google Fonts option type will dynamically enqueue any number of Google "
+"Web Fonts into the document %1$s. As well, once the option has been saved "
+"each font family will automatically be inserted into the %2$s array for the "
+"Typography option type. You can further modify the font stack by using the %3$"
+"s filter, which is passed the %4$s, %5$s, and %6$s parameters. The %6$s "
+"parameter is being passed from %7$s, so it will be the ID of a Typography "
+"option type. This will allow you to add additional web safe fonts to "
+"individual font families on an as-need basis."
+msgstr ""
+"The Google Fonts option type will dynamically enqueue any number of Google "
+"Web Fonts into the document %1$s. As well, once the option has been saved "
+"each font family will automatically be inserted into the %2$s array for the "
+"Typography option type. You can further modify the font stack by using the %3$"
+"s filter, which is passed the %4$s, %5$s, and %6$s parameters. The %6$s "
+"parameter is being passed from %7$s, so it will be the ID of a Typography "
+"option type. This will allow you to add additional web safe fonts to "
+"individual font families on an as-need basis."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:324
+#: option-tree/includes/ot-functions-admin.php:2432
+#: option-tree/includes/ot-functions-docs-page.php:174 loco:#: 55ede19c14d725656e8b467d
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:325
+#: option-tree/includes/ot-functions-docs-page.php:175 loco:#: 55ede19c14d725656e8b467e
+msgid ""
+"The JavaScript option type is a textarea that uses the %s code editor to "
+"highlight your JavaScript and display errors as you type."
+msgstr ""
+"The JavaScript option type is a textarea that uses the %s code editor to "
+"highlight your JavaScript and display errors as you type."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:339
+#: option-tree/includes/ot-functions-admin.php:2433
+#: option-tree/includes/ot-functions-docs-page.php:177 loco:#: 55ede19c14d725656e8b467f
+msgid "Link Color"
+msgstr "Link Color"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:340
+#: option-tree/includes/ot-functions-docs-page.php:178 loco:#: 55ede19c14d725656e8b4680
+msgid "The Link Color option type is used to set all link color states."
+msgstr "The Link Color option type is used to set all link color states."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:354
+#: option-tree/includes/ot-functions-admin.php:2434
+#: option-tree/includes/ot-functions-docs-page.php:180 loco:#: 55ede19c14d725656e8b4681
+msgid "List Item"
+msgstr "List Item"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:355 loco:#: 55ede19c14d725656e8b4682
+msgid ""
+"The List Item option type allows for a great deal of customization. You can "
+"add settings to the List Item and those settings will be displayed to the "
+"user when they add a new List Item. Typical use is for creating sliding "
+"content or blocks of code for custom layouts."
+msgstr ""
+"The List Item option type allows for a great deal of customization. You can "
+"add settings to the List Item and those settings will be displayed to the "
+"user when they add a new List Item. Typical use is for creating sliding "
+"content or blocks of code for custom layouts."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:369 loco:#: 55ede19c14d725656e8b4683
+msgid "Content"
+msgstr "Content"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:385
+#: option-tree/includes/ot-functions-admin.php:2435
+#: option-tree/includes/ot-functions-docs-page.php:183 loco:#: 55ede19c14d725656e8b4684
+msgid "Measurement"
+msgstr "Measurement"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:386
+#: option-tree/includes/ot-functions-docs-page.php:184 loco:#: 55ede19c14d725656e8b4685
+msgid ""
+"The Measurement option type is a mix of input and select fields. The text "
+"input excepts a value and the select lets you choose the unit of measurement "
+"to add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+msgstr ""
+"The Measurement option type is a mix of input and select fields. The text "
+"input excepts a value and the select lets you choose the unit of measurement "
+"to add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:400
+#: option-tree/includes/ot-functions-admin.php:2436
+#: option-tree/includes/ot-functions-docs-page.php:214 loco:#: 55ede19c14d725656e8b4686
+msgid "Numeric Slider"
+msgstr "Numeric Slider"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:401
+#: option-tree/includes/ot-functions-docs-page.php:215 loco:#: 55ede19c14d725656e8b4687
+msgid ""
+"The Numeric Slider option type displays a jQuery UI slider. It will return a "
+"single numerical value for use in a custom function or loop."
+msgstr ""
+"The Numeric Slider option type displays a jQuery UI slider. It will return a "
+"single numerical value for use in a custom function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:415
+#: option-tree/includes/ot-functions-admin.php:2437
+#: option-tree/includes/ot-functions-docs-page.php:217 loco:#: 55ede19c14d725656e8b4688
+msgid "On/Off"
+msgstr "On/Off"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:416
+#: option-tree/includes/ot-functions-docs-page.php:218 loco:#: 55ede19c14d725656e8b4689
+msgid ""
+"The On/Off option type displays a simple switch that can be used to turn "
+"things on or off. The saved return value is either %s or %s."
+msgstr ""
+"The On/Off option type displays a simple switch that can be used to turn "
+"things on or off. The saved return value is either %s or %s."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:430
+#: option-tree/includes/ot-functions-admin.php:2438
+#: option-tree/includes/ot-functions-docs-page.php:220 loco:#: 55ede19c14d725656e8b468a
+msgid "Page Checkbox"
+msgstr "Page Checkbox"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:431
+#: option-tree/includes/ot-functions-docs-page.php:221 loco:#: 55ede19c14d725656e8b468b
+msgid ""
+"The Page Checkbox option type displays a list of page IDs. It allows the user "
+"to check multiple page IDs for use in a custom function or loop."
+msgstr ""
+"The Page Checkbox option type displays a list of page IDs. It allows the user "
+"to check multiple page IDs for use in a custom function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:445
+#: option-tree/includes/ot-functions-admin.php:2439
+#: option-tree/includes/ot-functions-docs-page.php:223 loco:#: 55ede19c14d725656e8b468c
+msgid "Page Select"
+msgstr "Page Select"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:446
+#: option-tree/includes/ot-functions-docs-page.php:224 loco:#: 55ede19c14d725656e8b468d
+msgid ""
+"The Page Select option type displays a list of page IDs. It will return a "
+"single page ID for use in a custom function or loop."
+msgstr ""
+"The Page Select option type displays a list of page IDs. It will return a "
+"single page ID for use in a custom function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:460
+#: option-tree/includes/ot-functions-admin.php:2440
+#: option-tree/includes/ot-functions-docs-page.php:226 loco:#: 55ede19c14d725656e8b468e
+msgid "Post Checkbox"
+msgstr "Post Checkbox"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:461
+#: option-tree/includes/ot-functions-docs-page.php:227 loco:#: 55ede19c14d725656e8b468f
+msgid ""
+"The Post Checkbox option type displays a list of post IDs. It allows the user "
+"to check multiple post IDs for use in a custom function or loop."
+msgstr ""
+"The Post Checkbox option type displays a list of post IDs. It allows the user "
+"to check multiple post IDs for use in a custom function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:475
+#: option-tree/includes/ot-functions-admin.php:2441
+#: option-tree/includes/ot-functions-docs-page.php:229 loco:#: 55ede19c14d725656e8b4690
+msgid "Post Select"
+msgstr "Post Select"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:476
+#: option-tree/includes/ot-functions-docs-page.php:230 loco:#: 55ede19c14d725656e8b4691
+msgid ""
+"The Post Select option type displays a list of post IDs. It will return a "
+"single post ID for use in a custom function or loop."
+msgstr ""
+"The Post Select option type displays a list of post IDs. It will return a "
+"single post ID for use in a custom function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:490
+#: option-tree/includes/ot-functions-admin.php:2442
+#: option-tree/includes/ot-functions-docs-page.php:232 loco:#: 55ede19c14d725656e8b4692
+msgid "Radio"
+msgstr "Radio"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:491
+#: option-tree/includes/ot-functions-docs-page.php:233 loco:#: 55ede19c14d725656e8b4693
+msgid ""
+"The Radio option type displays a group of choices. It allows the user to "
+"choose one and will return that value as a string for use in a custom "
+"function or loop."
+msgstr ""
+"The Radio option type displays a group of choices. It allows the user to "
+"choose one and will return that value as a string for use in a custom "
+"function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:515
+#: option-tree/assets/theme-mode/demo-theme-options.php:567 loco:#: 55ede19c14d725656e8b4694
+msgid "Maybe"
+msgstr "Maybe"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:522
+#: option-tree/includes/ot-functions-admin.php:2443
+#: option-tree/includes/ot-functions-docs-page.php:235 loco:#: 55ede19c14d725656e8b4695
+msgid "Radio Image"
+msgstr "Radio Image"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:523
+#: option-tree/includes/ot-functions-docs-page.php:236 loco:#: 55ede19c14d725656e8b4696
+msgid ""
+"the Radio Images option type is primarily used for layouts. However, you can "
+"filter the image list using %s. As well, you can add your own custom images "
+"using the choices array."
+msgstr ""
+"the Radio Images option type is primarily used for layouts. However, you can "
+"filter the image list using %s. As well, you can add your own custom images "
+"using the choices array."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:537
+#: option-tree/includes/ot-functions-admin.php:2444
+#: option-tree/includes/ot-functions-docs-page.php:262 loco:#: 55ede19c14d725656e8b4697
+msgid "Select"
+msgstr "Select"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:538
+#: option-tree/includes/ot-functions-docs-page.php:263 loco:#: 55ede19c14d725656e8b4698
+msgid ""
+"The Select option type is used to list anything you want that would be chosen "
+"from a select list."
+msgstr ""
+"The Select option type is used to list anything you want that would be chosen "
+"from a select list."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:552
+#: option-tree/includes/ot-functions-option-types.php:1234
+#: option-tree/includes/ot-functions-option-types.php:1277 loco:#: 55ede19c14d725656e8b4699
+msgid "-- Choose One --"
+msgstr "-- Choose One --"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:574
+#: option-tree/includes/ot-functions-admin.php:2445
+#: option-tree/includes/ot-functions-docs-page.php:265 loco:#: 55ede19c14d725656e8b469a
+msgid "Sidebar Select"
+msgstr "Sidebar Select"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:575
+#: option-tree/includes/ot-functions-docs-page.php:266 loco:#: 55ede19c14d725656e8b469b
+msgid ""
+"This option type makes it possible for users to select a WordPress registered "
+"sidebar to use on a specific area. By using the two provided filters, %s, and %"
+"s we can be selective about which sidebars are available on a specific "
+"content area."
+msgstr ""
+"This option type makes it possible for users to select a WordPress registered "
+"sidebar to use on a specific area. By using the two provided filters, %s, and %"
+"s we can be selective about which sidebars are available on a specific "
+"content area."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:575
+#: option-tree/includes/ot-functions-docs-page.php:267 loco:#: 55ede19c14d725656e8b469c
+msgid ""
+"For example, if we create a WordPress theme that provides the ability to "
+"change the Blog Sidebar and we don't want to have the footer sidebars "
+"available on this area, we can unset those sidebars either manually or by "
+"using a regular expression if we have a common name like %s."
+msgstr ""
+"For example, if we create a WordPress theme that provides the ability to "
+"change the Blog Sidebar and we don't want to have the footer sidebars "
+"available on this area, we can unset those sidebars either manually or by "
+"using a regular expression if we have a common name like %s."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:589
+#: option-tree/includes/ot-functions-admin.php:2447
+#: option-tree/includes/ot-functions-docs-page.php:272 loco:#: 55ede19c14d725656e8b469d
+msgid "Social Links"
+msgstr "Social Links"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:590
+#: option-tree/includes/ot-functions-docs-page.php:273 loco:#: 55ede19c14d725656e8b469e
+msgid ""
+"The Social Links option type utilizes a drag & drop interface to create a "
+"list of social links. There are a few filters that make extending this option "
+"type easy. You can set the %s filter to %s and turn off loading default "
+"values. Use the %s filter to change the default values that are loaded. To "
+"filter the settings array use the %s filter."
+msgstr ""
+"The Social Links option type utilizes a drag & drop interface to create a "
+"list of social links. There are a few filters that make extending this option "
+"type easy. You can set the %s filter to %s and turn off loading default "
+"values. Use the %s filter to change the default values that are loaded. To "
+"filter the settings array use the %s filter."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:604
+#: option-tree/includes/ot-functions-admin.php:2448
+#: option-tree/includes/ot-functions-docs-page.php:275 loco:#: 55ede19c14d725656e8b469f
+msgid "Spacing"
+msgstr "Spacing"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:605 loco:#: 55ede19c14d725656e8b46a0
+msgid ""
+"The Spacing option type is used to set spacing values such as padding or "
+"margin in the form of top, right, bottom, and left."
+msgstr ""
+"The Spacing option type is used to set spacing values such as padding or "
+"margin in the form of top, right, bottom, and left."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:619
+#: option-tree/includes/ot-functions-admin.php:2450
+#: option-tree/includes/ot-functions-docs-page.php:281 loco:#: 55ede19c14d725656e8b46a1
+msgid "Tag Checkbox"
+msgstr "Tag Checkbox"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:620
+#: option-tree/includes/ot-functions-docs-page.php:282 loco:#: 55ede19c14d725656e8b46a2
+msgid ""
+"The Tag Checkbox option type displays a list of tag IDs. It allows the user "
+"to check multiple tag IDs and will return that value as an array for use in a "
+"custom function or loop."
+msgstr ""
+"The Tag Checkbox option type displays a list of tag IDs. It allows the user "
+"to check multiple tag IDs and will return that value as an array for use in a "
+"custom function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:634
+#: option-tree/includes/ot-functions-admin.php:2451
+#: option-tree/includes/ot-functions-docs-page.php:284 loco:#: 55ede19c14d725656e8b46a3
+msgid "Tag Select"
+msgstr "Tag Select"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:635
+#: option-tree/includes/ot-functions-docs-page.php:285 loco:#: 55ede19c14d725656e8b46a4
+msgid ""
+"The Tag Select option type displays a list of tag IDs. It allows the user to "
+"select only one tag ID and will return that value for use in a custom "
+"function or loop."
+msgstr ""
+"The Tag Select option type displays a list of tag IDs. It allows the user to "
+"select only one tag ID and will return that value for use in a custom "
+"function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:649
+#: option-tree/includes/ot-functions-admin.php:2452
+#: option-tree/includes/ot-functions-docs-page.php:287 loco:#: 55ede19c14d725656e8b46a5
+msgid "Taxonomy Checkbox"
+msgstr "Taxonomy Checkbox"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:650
+#: option-tree/includes/ot-functions-docs-page.php:288 loco:#: 55ede19c14d725656e8b46a6
+msgid ""
+"The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows "
+"the user to check multiple taxonomy IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+"The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows "
+"the user to check multiple taxonomy IDs and will return that value as an "
+"array for use in a custom function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:664
+#: option-tree/includes/ot-functions-admin.php:2453
+#: option-tree/includes/ot-functions-docs-page.php:290 loco:#: 55ede19c14d725656e8b46a7
+msgid "Taxonomy Select"
+msgstr "Taxonomy Select"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:665
+#: option-tree/includes/ot-functions-docs-page.php:291 loco:#: 55ede19c14d725656e8b46a8
+msgid ""
+"The Taxonomy Select option type displays a list of taxonomy IDs. It allows "
+"the user to select only one taxonomy ID and will return that value for use in "
+"a custom function or loop."
+msgstr ""
+"The Taxonomy Select option type displays a list of taxonomy IDs. It allows "
+"the user to select only one taxonomy ID and will return that value for use in "
+"a custom function or loop."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:680
+#: option-tree/includes/ot-functions-docs-page.php:294 loco:#: 55ede19c14d725656e8b46a9
+msgid ""
+"The Text option type is used to save string values. For example, any optional "
+"or required text that is of reasonably short character length."
+msgstr ""
+"The Text option type is used to save string values. For example, any optional "
+"or required text that is of reasonably short character length."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:695
+#: option-tree/includes/ot-functions-docs-page.php:297 loco:#: 55ede19c14d725656e8b46aa
+msgid ""
+"The Textarea option type is a large string value used for custom code or text "
+"in the theme and has a WYSIWYG editor that can be filtered to change the how "
+"it is displayed. For example, you can filter %s, %s, %s, and %s."
+msgstr ""
+"The Textarea option type is a large string value used for custom code or text "
+"in the theme and has a WYSIWYG editor that can be filtered to change the how "
+"it is displayed. For example, you can filter %s, %s, %s, and %s."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:709
+#: option-tree/includes/ot-functions-admin.php:2456
+#: option-tree/includes/ot-functions-docs-page.php:355 loco:#: 55ede19c14d725656e8b46ab
+msgid "Textarea Simple"
+msgstr "Textarea Simple"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:710
+#: option-tree/includes/ot-functions-docs-page.php:356 loco:#: 55ede19c14d725656e8b46ac
+msgid ""
+"The Textarea Simple option type is a large string value used for custom code "
+"or text in the theme. The Textarea Simple does not have a WYSIWYG editor."
+msgstr ""
+"The Textarea Simple option type is a large string value used for custom code "
+"or text in the theme. The Textarea Simple does not have a WYSIWYG editor."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:725
+#: option-tree/includes/ot-functions-docs-page.php:372 loco:#: 55ede19c14d725656e8b46ad
+msgid ""
+"The Textblock option type is used only on the Theme Option page. It will "
+"allow you to create & display HTML, but has no title above the text block. "
+"You can then use the Textblock to add a more detailed set of instruction on "
+"how the options are used in your theme. You would never use this in your "
+"themes template files as it does not save a value."
+msgstr ""
+"The Textblock option type is used only on the Theme Option page. It will "
+"allow you to create & display HTML, but has no title above the text block. "
+"You can then use the Textblock to add a more detailed set of instruction on "
+"how the options are used in your theme. You would never use this in your "
+"themes template files as it does not save a value."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:739
+#: option-tree/includes/ot-functions-admin.php:2458
+#: option-tree/includes/ot-functions-docs-page.php:374 loco:#: 55ede19c14d725656e8b46ae
+msgid "Textblock Titled"
+msgstr "Textblock Titled"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:740
+#: option-tree/includes/ot-functions-docs-page.php:375 loco:#: 55ede19c14d725656e8b46af
+msgid ""
+"The Textblock Titled option type is used only on the Theme Option page. It "
+"will allow you to create & display HTML, and has a title above the text block. "
+"You can then use the Textblock Titled to add a more detailed set of "
+"instruction on how the options are used in your theme. You would never use "
+"this in your themes template files as it does not save a value."
+msgstr ""
+"The Textblock Titled option type is used only on the Theme Option page. It "
+"will allow you to create & display HTML, and has a title above the text block. "
+"You can then use the Textblock Titled to add a more detailed set of "
+"instruction on how the options are used in your theme. You would never use "
+"this in your themes template files as it does not save a value."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:754
+#: option-tree/includes/ot-functions-admin.php:2459
+#: option-tree/includes/ot-functions-docs-page.php:377 loco:#: 55ede19c14d725656e8b46b0
+msgid "Typography"
+msgstr "Typography"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:755
+#: option-tree/includes/ot-functions-docs-page.php:378 loco:#: 55ede19c14d725656e8b46b1
+msgid ""
+"The Typography option type is for adding typography styles to your theme "
+"either dynamically via the CSS option type above or manually with %s. The "
+"Typography option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+"The Typography option type is for adding typography styles to your theme "
+"either dynamically via the CSS option type above or manually with %s. The "
+"Typography option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:769
+#: option-tree/includes/ot-functions-admin.php:2460
+#: option-tree/includes/ot-functions-docs-page.php:397 loco:#: 55ede19c14d725656e8b46b2
+msgid "Upload"
+msgstr "Upload"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:770
+#: option-tree/includes/ot-functions-docs-page.php:398 loco:#: 55ede19c14d725656e8b46b3
+msgid ""
+"The Upload option type is used to upload any WordPress supported media. After "
+"uploading, users are required to press the \"%s\" button in order to populate "
+"the input with the URI of that media. There is one caveat of this feature. If "
+"you import the theme options and have uploaded media on one site the old URI "
+"will not reflect the URI of your new site. You will have to re-upload or %s "
+"any media to your new server and change the URIs if necessary."
+msgstr ""
+"The Upload option type is used to upload any WordPress supported media. After "
+"uploading, users are required to press the \"%s\" button in order to populate "
+"the input with the URI of that media. There is one caveat of this feature. If "
+"you import the theme options and have uploaded media on one site the old URI "
+"will not reflect the URI of your new site. You will have to re-upload or %s "
+"any media to your new server and change the URIs if necessary."
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:770
+#: option-tree/includes/ot-functions-admin.php:846
+#: option-tree/includes/ot-functions-docs-page.php:398
+#: option-tree/includes/ot-functions-settings-page.php:170
+#: option-tree/ot-loader.php:787 loco:55ede19c14d725656e8b46b4
+msgid "Send to OptionTree"
+msgstr "Send to OptionTree"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:784 loco:#: 55ede19c14d725656e8b46b5
+msgid "Upload Attachment ID"
+msgstr "Upload Attachment ID"
+
+#: option-tree/assets/theme-mode/demo-theme-options.php:785 loco:#: 55ede19c14d725656e8b46b6
+msgid ""
+"The Upload option type can also be saved as an attachment ID by adding %s to "
+"the class attribute."
+msgstr ""
+"The Upload option type can also be saved as an attachment ID by adding %s to "
+"the class attribute."
+
+#: option-tree/includes/ot-cleanup-api.php:84
+#: option-tree/includes/ot-cleanup-api.php:101
+#: option-tree/includes/ot-cleanup-api.php:130 loco:55ede19c14d725656e8b46b7
+msgid "OptionTree Cleanup"
+msgstr "OptionTree Cleanup"
+
+#: option-tree/includes/ot-cleanup-api.php:101 loco:55ede19c14d725656e8b46b8
+msgid ""
+"OptionTree has outdated data that should be removed. Please go to %s for more "
+"information."
+msgstr ""
+"OptionTree has outdated data that should be removed. Please go to %s for more "
+"information."
+
+#: option-tree/includes/ot-cleanup-api.php:136 loco:55ede19c14d725656e8b46b9
+msgid "Multiple Media Posts"
+msgstr "Multiple Media Posts"
+
+#: option-tree/includes/ot-cleanup-api.php:138 loco:55ede19c14d725656e8b46ba
+msgid ""
+"There are currently %s OptionTree media posts in your database. At some point "
+"in the past, a version of OptionTree added multiple %s media post objects "
+"cluttering up your %s table. There is no associated risk or harm that these "
+"posts have caused other than to add size to your overall database. Thankfully, "
+"there is a way to remove all these orphaned media posts and get your database "
+"cleaned up."
+msgstr ""
+"There are currently %s OptionTree media posts in your database. At some point "
+"in the past, a version of OptionTree added multiple %s media post objects "
+"cluttering up your %s table. There is no associated risk or harm that these "
+"posts have caused other than to add size to your overall database. Thankfully, "
+"there is a way to remove all these orphaned media posts and get your database "
+"cleaned up."
+
+#: option-tree/includes/ot-cleanup-api.php:140 loco:55ede19c14d725656e8b46bb
+msgid ""
+"By clicking the button below, OptionTree will delete %s records and "
+"consolidate them into one single OptionTree media post for uploading "
+"attachments to. Additionally, the attachments will have their parent ID "
+"updated to the correct media post."
+msgstr ""
+"By clicking the button below, OptionTree will delete %s records and "
+"consolidate them into one single OptionTree media post for uploading "
+"attachments to. Additionally, the attachments will have their parent ID "
+"updated to the correct media post."
+
+#: option-tree/includes/ot-cleanup-api.php:142 loco:55ede19c14d725656e8b46bc
+msgid ""
+"This could take a while to fully process depending on how many records you "
+"have in your database, so please be patient and wait for the script to finish."
+msgstr ""
+"This could take a while to fully process depending on how many records you "
+"have in your database, so please be patient and wait for the script to finish."
+
+#: option-tree/includes/ot-cleanup-api.php:144 loco:55ede19c14d725656e8b46bd
+msgid ""
+"%s Your server is running in safe mode. Which means this page will "
+"automatically reload after deleting %s posts, you can filter this number "
+"using %s if your server is having trouble processing that many at one time."
+msgstr ""
+"%s Your server is running in safe mode. Which means this page will "
+"automatically reload after deleting %s posts, you can filter this number "
+"using %s if your server is having trouble processing that many at one time."
+
+#: option-tree/includes/ot-cleanup-api.php:146 loco:55ede19c14d725656e8b46be
+msgid "Consolidate Posts"
+msgstr "Consolidate Posts"
+
+#: option-tree/includes/ot-cleanup-api.php:174 loco:55ede19c14d725656e8b46bf
+msgid "Reloading..."
+msgstr "Reloading..."
+
+#: option-tree/includes/ot-cleanup-api.php:210 loco:55ede19c14d725656e8b46c0
+msgid "Clean up script has completed, the page will now reload..."
+msgstr "Clean up script has completed, the page will now reload..."
+
+#: option-tree/includes/ot-cleanup-api.php:230 loco:55ede19c14d725656e8b46c1
+msgid "Outdated Table"
+msgstr "Outdated Table"
+
+#: option-tree/includes/ot-cleanup-api.php:232 loco:55ede19c14d725656e8b46c2
+msgid ""
+"If you have upgraded from an old 1.x version of OptionTree at some point, you "
+"have an extra %s table in your database that can be removed. It's not hurting "
+"anything, but does not need to be there. If you want to remove it. Click the "
+"button below."
+msgstr ""
+"If you have upgraded from an old 1.x version of OptionTree at some point, you "
+"have an extra %s table in your database that can be removed. It's not hurting "
+"anything, but does not need to be there. If you want to remove it. Click the "
+"button below."
+
+#: option-tree/includes/ot-cleanup-api.php:234 loco:55ede19c14d725656e8b46c3
+msgid "Drop Table"
+msgstr "Drop Table"
+
+#: option-tree/includes/ot-cleanup-api.php:238 loco:55ede19c14d725656e8b46c4
+msgid "Deleting the outdated and unused %s table..."
+msgstr "Deleting the outdated and unused %s table..."
+
+#: option-tree/includes/ot-cleanup-api.php:244 loco:55ede19c14d725656e8b46c5
+msgid "The %s table has been successfully deleted. The page will now reload..."
+msgstr "The %s table has been successfully deleted. The page will now reload..."
+
+#: option-tree/includes/ot-cleanup-api.php:256 loco:55ede19c14d725656e8b46c6
+msgid "Something went wrong. The %s table was not deleted."
+msgstr "Something went wrong. The %s table was not deleted."
+
+#: option-tree/includes/ot-functions-admin.php:50
+#: option-tree/includes/ot-functions-admin.php:51
+#: option-tree/includes/ot-functions-admin.php:169
+#: option-tree/includes/ot-functions-admin.php:193
+#: option-tree/includes/ot-functions.php:388 loco:55ede19c14d725656e8b46c7
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: option-tree/includes/ot-functions-admin.php:56
+#: option-tree/includes/ot-functions-admin.php:126
+#: option-tree/includes/ot-functions-admin.php:220 loco:55ede19c14d725656e8b46c8
+msgid "Theme Options updated."
+msgstr "Theme Options updated."
+
+#: option-tree/includes/ot-functions-admin.php:57
+#: option-tree/includes/ot-functions-admin.php:127
+#: option-tree/includes/ot-functions-admin.php:221 loco:55ede19c14d725656e8b46c9
+msgid "Theme Options reset."
+msgstr "Theme Options reset."
+
+#: option-tree/includes/ot-functions-admin.php:58
+#: option-tree/includes/ot-functions-settings-page.php:94
+#: option-tree/includes/ot-functions-settings-page.php:133 loco:#: 55ede19c14d725656e8b46ca
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: option-tree/includes/ot-functions-admin.php:97 loco:55ede19c14d725656e8b46cb
+msgid ""
+"The Theme Options UI Builder is being overridden by a custom file in your "
+"theme. Any changes you make via the UI Builder will not be saved."
+msgstr ""
+"The Theme Options UI Builder is being overridden by a custom file in your "
+"theme. Any changes you make via the UI Builder will not be saved."
+
+#: option-tree/includes/ot-functions-admin.php:109
+#: option-tree/includes/ot-functions-admin.php:110
+#: option-tree/includes/ot-functions-docs-page.php:821 loco:#: 55ede19c14d725656e8b46cc
+msgid "OptionTree"
+msgstr "OptionTree"
+
+#: option-tree/includes/ot-functions-admin.php:120
+#: option-tree/includes/ot-functions-admin.php:121
+#: option-tree/includes/ot-functions-admin.php:163
+#: option-tree/includes/ot-functions-admin.php:187
+#: option-tree/includes/ot-functions-docs-page.php:49 loco:#: 55ede19c14d725656e8b46cd
+msgid "Settings"
+msgstr "Settings"
+
+#: option-tree/includes/ot-functions-admin.php:128
+#: option-tree/includes/ot-functions-admin.php:222 loco:55ede19c14d725656e8b46ce
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: option-tree/includes/ot-functions-admin.php:133 loco:55ede19c14d725656e8b46cf
+msgid "Theme Options UI"
+msgstr "Theme Options UI"
+
+#: option-tree/includes/ot-functions-admin.php:137 loco:55ede19c14d725656e8b46d0
+msgid "Import"
+msgstr "Import"
+
+#: option-tree/includes/ot-functions-admin.php:141 loco:55ede19c14d725656e8b46d1
+msgid "Export"
+msgstr "Export"
+
+#: option-tree/includes/ot-functions-admin.php:145
+#: option-tree/includes/ot-functions-admin.php:175
+#: option-tree/includes/ot-functions-admin.php:199 loco:55ede19c14d725656e8b46d2
+msgid "Layouts"
+msgstr "Layouts"
+
+#: option-tree/includes/ot-functions-admin.php:151 loco:55ede19c14d725656e8b46d3
+msgid "Theme Options UI Builder"
+msgstr "Theme Options UI Builder"
+
+#: option-tree/includes/ot-functions-admin.php:157 loco:55ede19c14d725656e8b46d4
+msgid "Settings XML"
+msgstr "Settings XML"
+
+#: option-tree/includes/ot-functions-admin.php:181 loco:55ede19c14d725656e8b46d5
+msgid "Settings PHP File"
+msgstr "Settings PHP File"
+
+#: option-tree/includes/ot-functions-admin.php:205 loco:55ede19c14d725656e8b46d6
+msgid "Layout Management"
+msgstr "Layout Management"
+
+#: option-tree/includes/ot-functions-admin.php:214
+#: option-tree/includes/ot-functions-admin.php:215 loco:55ede19c14d725656e8b46d7
+msgid "Documentation"
+msgstr "Documentation"
+
+#: option-tree/includes/ot-functions-admin.php:227 loco:55ede19c14d725656e8b46d8
+msgid "Creating Options"
+msgstr "Creating Options"
+
+#: option-tree/includes/ot-functions-admin.php:235 loco:55ede19c14d725656e8b46d9
+msgid "Function References"
+msgstr "Function References"
+
+#: option-tree/includes/ot-functions-admin.php:239
+#: option-tree/includes/ot-functions-admin.php:281
+#: option-tree/includes/ot-functions-settings-page.php:366 loco:#: 55ede19c14d725656e8b46da
+msgid "Theme Mode"
+msgstr "Theme Mode"
+
+#: option-tree/includes/ot-functions-admin.php:243
+#: option-tree/includes/ot-functions-admin.php:287 loco:55ede19c14d725656e8b46db
+msgid "Meta Boxes"
+msgstr "Meta Boxes"
+
+#: option-tree/includes/ot-functions-admin.php:247 loco:55ede19c14d725656e8b46dc
+msgid "Code Examples"
+msgstr "Code Examples"
+
+#: option-tree/includes/ot-functions-admin.php:251 loco:55ede19c14d725656e8b46dd
+msgid "Layouts Overview"
+msgstr "Layouts Overview"
+
+#: option-tree/includes/ot-functions-admin.php:257 loco:55ede19c14d725656e8b46de
+msgid "Overview of available Theme Option fields."
+msgstr "Overview of available Theme Option fields."
+
+#: option-tree/includes/ot-functions-admin.php:263 loco:55ede19c14d725656e8b46df
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr "Option types in alphabetical order & hooks to filter them."
+
+#: option-tree/includes/ot-functions-admin.php:269 loco:55ede19c14d725656e8b46e0
+msgid "Function Reference:ot_get_option()"
+msgstr "Function Reference:ot_get_option()"
+
+#: option-tree/includes/ot-functions-admin.php:275 loco:55ede19c14d725656e8b46e1
+msgid "Function Reference:get_option_tree()"
+msgstr "Function Reference:get_option_tree()"
+
+#: option-tree/includes/ot-functions-admin.php:293 loco:55ede19c14d725656e8b46e2
+msgid "Code examples for front-end development."
+msgstr "Code examples for front-end development."
+
+#: option-tree/includes/ot-functions-admin.php:299 loco:55ede19c14d725656e8b46e3
+msgid "What's a layout anyhow?"
+msgstr "What's a layout anyhow?"
+
+#: option-tree/includes/ot-functions-admin.php:502
+#: option-tree/includes/ot-functions-admin.php:604
+#: option-tree/includes/ot-functions-admin.php:673 loco:55ede19c14d725656e8b46e4
+msgid "The %s input field for %s only allows numeric values."
+msgstr "The %s input field for %s only allows numeric values."
+
+#: option-tree/includes/ot-functions-admin.php:563 loco:55ede19c14d725656e8b46e5
+msgid "The %s Colorpicker only allows valid hexadecimal or rgba values."
+msgstr "The %s Colorpicker only allows valid hexadecimal or rgba values."
+
+#: option-tree/includes/ot-functions-admin.php:847
+#: option-tree/includes/ot-functions-option-types.php:257
+#: option-tree/includes/ot-functions-option-types.php:3218 loco:#: 55ede19c14d725656e8b46e6
+msgid "Remove Media"
+msgstr "Remove Media"
+
+#: option-tree/includes/ot-functions-admin.php:848 loco:55ede19c14d725656e8b46e7
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr "Are you sure you want to reset back to the defaults?"
+
+#: option-tree/includes/ot-functions-admin.php:849 loco:55ede19c14d725656e8b46e8
+msgid "You can't remove this! But you can edit the values."
+msgstr "You can't remove this! But you can edit the values."
+
+#: option-tree/includes/ot-functions-admin.php:850 loco:55ede19c14d725656e8b46e9
+msgid "Are you sure you want to remove this?"
+msgstr "Are you sure you want to remove this?"
+
+#: option-tree/includes/ot-functions-admin.php:851 loco:55ede19c14d725656e8b46ea
+msgid "Are you sure you want to activate this layout?"
+msgstr "Are you sure you want to activate this layout?"
+
+#: option-tree/includes/ot-functions-admin.php:852 loco:55ede19c14d725656e8b46eb
+msgid "Sorry, you can't have settings three levels deep."
+msgstr "Sorry, you can't have settings three levels deep."
+
+#: option-tree/includes/ot-functions-admin.php:853
+#: option-tree/includes/ot-functions-option-types.php:1159 loco:#: 55ede19c14d725656e8b46ec
+msgid "Delete Gallery"
+msgstr "Delete Gallery"
+
+#: option-tree/includes/ot-functions-admin.php:854
+#: option-tree/includes/ot-functions-option-types.php:1160 loco:#: 55ede19c14d725656e8b46ed
+msgid "Edit Gallery"
+msgstr "Edit Gallery"
+
+#: option-tree/includes/ot-functions-admin.php:855
+#: option-tree/includes/ot-functions-option-types.php:1167 loco:#: 55ede19c14d725656e8b46ee
+msgid "Create Gallery"
+msgstr "Create Gallery"
+
+#: option-tree/includes/ot-functions-admin.php:856 loco:55ede19c14d725656e8b46ef
+msgid "Are you sure you want to delete this Gallery?"
+msgstr "Are you sure you want to delete this Gallery?"
+
+#: option-tree/includes/ot-functions-admin.php:857 loco:55ede19c14d725656e8b46f0
+msgid "Today"
+msgstr "Today"
+
+#: option-tree/includes/ot-functions-admin.php:858 loco:55ede19c14d725656e8b46f1
+msgid "Now"
+msgstr "Now"
+
+#: option-tree/includes/ot-functions-admin.php:859 loco:55ede19c14d725656e8b46f2
+msgid "Close"
+msgstr "Close"
+
+#: option-tree/includes/ot-functions-admin.php:860 loco:55ede19c14d725656e8b46f3
+msgid "Featured Image"
+msgstr "Featured Image"
+
+#: option-tree/includes/ot-functions-admin.php:861
+#: option-tree/includes/ot-functions-admin.php:3250
+#: option-tree/includes/ot-functions-admin.php:3311 loco:55ede19c14d725656e8b46f4
+msgid "Image"
+msgstr "Image"
+
+#: option-tree/includes/ot-functions-admin.php:929 loco:55ede19c14d725656e8b46f5
+msgid "Option Tree"
+msgstr "Option Tree"
+
+#: option-tree/includes/ot-functions-admin.php:1073 loco:55ede19c14d725656e8b46f6
+msgid "Sample Text Field Label"
+msgstr "Sample Text Field Label"
+
+#: option-tree/includes/ot-functions-admin.php:1074 loco:55ede19c14d725656e8b46f7
+msgid "Description for the sample text field."
+msgstr "Description for the sample text field."
+
+#: option-tree/includes/ot-functions-admin.php:2316 loco:55ede19c14d725656e8b46f8
+msgid "Settings updated."
+msgstr "Settings updated."
+
+#: option-tree/includes/ot-functions-admin.php:2320 loco:55ede19c14d725656e8b46f9
+msgid "Settings could not be saved."
+msgstr "Settings could not be saved."
+
+#: option-tree/includes/ot-functions-admin.php:2328 loco:55ede19c14d725656e8b46fa
+msgid "Settings Imported."
+msgstr "Settings Imported."
+
+#: option-tree/includes/ot-functions-admin.php:2332 loco:55ede19c14d725656e8b46fb
+msgid "Settings could not be imported."
+msgstr "Settings could not be imported."
+
+#: option-tree/includes/ot-functions-admin.php:2339 loco:55ede19c14d725656e8b46fc
+msgid "Data Imported."
+msgstr "Data Imported."
+
+#: option-tree/includes/ot-functions-admin.php:2343 loco:55ede19c14d725656e8b46fd
+msgid "Data could not be imported."
+msgstr "Data could not be imported."
+
+#: option-tree/includes/ot-functions-admin.php:2351 loco:55ede19c14d725656e8b46fe
+msgid "Layouts Imported."
+msgstr "Layouts Imported."
+
+#: option-tree/includes/ot-functions-admin.php:2355 loco:55ede19c14d725656e8b46ff
+msgid "Layouts could not be imported."
+msgstr "Layouts could not be imported."
+
+#: option-tree/includes/ot-functions-admin.php:2363 loco:55ede19c14d725656e8b4700
+msgid "Layouts Updated."
+msgstr "Layouts Updated."
+
+#: option-tree/includes/ot-functions-admin.php:2367 loco:55ede19c14d725656e8b4701
+msgid "Layouts could not be updated."
+msgstr "Layouts could not be updated."
+
+#: option-tree/includes/ot-functions-admin.php:2371 loco:55ede19c14d725656e8b4702
+msgid "Layouts have been deleted."
+msgstr "Layouts have been deleted."
+
+#: option-tree/includes/ot-functions-admin.php:2377 loco:55ede19c14d725656e8b4703
+msgid "Layout activated."
+msgstr "Layout activated."
+
+#: option-tree/includes/ot-functions-admin.php:2446
+#: option-tree/includes/ot-functions-docs-page.php:269 loco:#: 55ede19c14d725656e8b4704
+msgid "Slider"
+msgstr "Slider"
+
+#: option-tree/includes/ot-functions-admin.php:2449
+#: option-tree/includes/ot-functions-docs-page.php:278 loco:#: 55ede19c14d725656e8b4705
+msgid "Tab"
+msgstr "Tab"
+
+#: option-tree/includes/ot-functions-admin.php:3195 loco:55ede19c14d725656e8b4706
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: option-tree/includes/ot-functions-admin.php:3200 loco:55ede19c14d725656e8b4707
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: option-tree/includes/ot-functions-admin.php:3205 loco:55ede19c14d725656e8b4708
+msgid "Full Width (no sidebar)"
+msgstr "Full Width (no sidebar)"
+
+#: option-tree/includes/ot-functions-admin.php:3210 loco:55ede19c14d725656e8b4709
+msgid "Dual Sidebar"
+msgstr "Dual Sidebar"
+
+#: option-tree/includes/ot-functions-admin.php:3215 loco:55ede19c14d725656e8b470a
+msgid "Left Dual Sidebar"
+msgstr "Left Dual Sidebar"
+
+#: option-tree/includes/ot-functions-admin.php:3220 loco:55ede19c14d725656e8b470b
+msgid "Right Dual Sidebar"
+msgstr "Right Dual Sidebar"
+
+#: option-tree/includes/ot-functions-admin.php:3261
+#: option-tree/includes/ot-functions-admin.php:3317
+#: option-tree/includes/ot-functions-admin.php:5505 loco:55ede19c14d725656e8b470c
+msgid "Link"
+msgstr "Link"
+
+#: option-tree/includes/ot-functions-admin.php:3272
+#: option-tree/includes/ot-functions-admin.php:3323
+#: option-tree/includes/ot-functions-docs-page.php:43
+#: option-tree/includes/ot-functions-docs-page.php:428
+#: option-tree/includes/ot-functions-docs-page.php:478 loco:#: 55ede19c14d725656e8b470d
+msgid "Description"
+msgstr "Description"
+
+#: option-tree/includes/ot-functions-admin.php:3387 templ-contact.php:57 loco:#: 55ede19c14d725656e8b470e
+msgid "Name"
+msgstr "Name"
+
+#: option-tree/includes/ot-functions-admin.php:3388 loco:55ede19c14d725656e8b470f
+msgid "Enter the name of the social website."
+msgstr "Enter the name of the social website."
+
+#: option-tree/includes/ot-functions-admin.php:3396 loco:55ede19c14d725656e8b4710
+msgid "Enter the text shown in the title attribute of the link."
+msgstr "Enter the text shown in the title attribute of the link."
+
+#: option-tree/includes/ot-functions-admin.php:3402 loco:55ede19c14d725656e8b4711
+msgid ""
+"Enter a link to the profile or page on the social website. Remember to add "
+"the %s part to the front of the link."
+msgstr ""
+"Enter a link to the profile or page on the social website. Remember to add "
+"the %s part to the front of the link."
+
+#: option-tree/includes/ot-functions-admin.php:3755 loco:55ede19c14d725656e8b4712
+msgid "Unable to write to file %s."
+msgstr "Unable to write to file %s."
+
+#: option-tree/includes/ot-functions-admin.php:4025 loco:55ede19c14d725656e8b4713
+msgid "edit"
+msgstr "edit"
+
+#: option-tree/includes/ot-functions-admin.php:4028
+#: option-tree/includes/ot-functions-admin.php:4029
+#: option-tree/includes/ot-functions-admin.php:4097
+#: option-tree/includes/ot-functions-admin.php:4098
+#: option-tree/includes/ot-functions-admin.php:4260
+#: option-tree/includes/ot-functions-admin.php:4261
+#: option-tree/includes/ot-functions-admin.php:4326
+#: option-tree/includes/ot-functions-admin.php:4327
+#: option-tree/includes/ot-functions-admin.php:4385
+#: option-tree/includes/ot-functions-admin.php:4386
+#: option-tree/includes/ot-functions-admin.php:4454
+#: option-tree/includes/ot-functions-admin.php:4455
+#: option-tree/includes/ot-functions-admin.php:4607
+#: option-tree/includes/ot-functions-admin.php:4608 loco:55ede19c14d725656e8b4714
+msgid "Delete"
+msgstr "Delete"
+
+#: option-tree/includes/ot-functions-admin.php:4035 loco:55ede19c14d725656e8b4715
+msgid ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme Options "
+"page."
+msgstr ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme Options "
+"page."
+
+#: option-tree/includes/ot-functions-admin.php:4043 loco:55ede19c14d725656e8b4716
+msgid ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+msgstr ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+
+#: option-tree/includes/ot-functions-admin.php:4104 loco:55ede19c14d725656e8b4717
+msgid ""
+"<strong>Label</strong>: Displayed as the label of a form element on the Theme "
+"Options page."
+msgstr ""
+"<strong>Label</strong>: Displayed as the label of a form element on the Theme "
+"Options page."
+
+#: option-tree/includes/ot-functions-admin.php:4112
+#: option-tree/includes/ot-functions-admin.php:4341 loco:55ede19c14d725656e8b4718
+msgid ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+msgstr ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+
+#: option-tree/includes/ot-functions-admin.php:4120 loco:55ede19c14d725656e8b4719
+msgid ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+msgstr ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+
+#: option-tree/includes/ot-functions-admin.php:4131 loco:55ede19c14d725656e8b471a
+msgid ""
+"<strong>Description</strong>: Enter a detailed description for the users to "
+"read on the Theme Options page, HTML is allowed. This is also where you enter "
+"content for both the Textblock & Textblock Titled option types."
+msgstr ""
+"<strong>Description</strong>: Enter a detailed description for the users to "
+"read on the Theme Options page, HTML is allowed. This is also where you enter "
+"content for both the Textblock & Textblock Titled option types."
+
+#: option-tree/includes/ot-functions-admin.php:4139 loco:55ede19c14d725656e8b471b
+msgid ""
+"<strong>Choices</strong>: This will only affect the following option types: "
+"Checkbox, Radio, Select & Select Image."
+msgstr ""
+"<strong>Choices</strong>: This will only affect the following option types: "
+"Checkbox, Radio, Select & Select Image."
+
+#: option-tree/includes/ot-functions-admin.php:4144 loco:55ede19c14d725656e8b471c
+msgid "Add Choice"
+msgstr "Add Choice"
+
+#: option-tree/includes/ot-functions-admin.php:4150 loco:55ede19c14d725656e8b471d
+msgid "<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr "<strong>Settings</strong>: This will only affect the List Item option type."
+
+#: option-tree/includes/ot-functions-admin.php:4155
+#: option-tree/includes/ot-functions-settings-page.php:93 loco:#: 55ede19c14d725656e8b471e
+msgid "Add Setting"
+msgstr "Add Setting"
+
+#: option-tree/includes/ot-functions-admin.php:4161 loco:55ede19c14d725656e8b471f
+msgid ""
+"<strong>Standard</strong>: Setting the standard value for your option only "
+"works for some option types. Read the <code>OptionTree->Documentation</code> "
+"for more information on which ones."
+msgstr ""
+"<strong>Standard</strong>: Setting the standard value for your option only "
+"works for some option types. Read the <code>OptionTree->Documentation</code> "
+"for more information on which ones."
+
+#: option-tree/includes/ot-functions-admin.php:4169 loco:55ede19c14d725656e8b4720
+msgid ""
+"<strong>Rows</strong>: Enter a numeric value for the number of rows in your "
+"textarea. This will only affect the following option types: CSS, Textarea, & "
+"Textarea Simple."
+msgstr ""
+"<strong>Rows</strong>: Enter a numeric value for the number of rows in your "
+"textarea. This will only affect the following option types: CSS, Textarea, & "
+"Textarea Simple."
+
+#: option-tree/includes/ot-functions-admin.php:4177 loco:55ede19c14d725656e8b4721
+msgid ""
+"<strong>Post Type</strong>: Add a comma separated list of post type like '"
+"post,page'. This will only affect the following option types: Custom Post "
+"Type Checkbox, & Custom Post Type Select."
+msgstr ""
+"<strong>Post Type</strong>: Add a comma separated list of post type like '"
+"post,page'. This will only affect the following option types: Custom Post "
+"Type Checkbox, & Custom Post Type Select."
+
+#: option-tree/includes/ot-functions-admin.php:4185 loco:55ede19c14d725656e8b4722
+msgid ""
+"<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+"taxonomy like 'category,post_tag'. This will only affect the following option "
+"types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+"<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+"taxonomy like 'category,post_tag'. This will only affect the following option "
+"types: Taxonomy Checkbox, & Taxonomy Select."
+
+#: option-tree/includes/ot-functions-admin.php:4193 loco:55ede19c14d725656e8b4723
+msgid ""
+"<strong>Min, Max, & Step</strong>: Add a comma separated list of options in "
+"the following format <code>0,100,1</code> (slide from <code>0-100</code> in "
+"intervals of <code>1</code>). The three values represent the minimum, maximum, "
+"and step options and will only affect the Numeric Slider option type."
+msgstr ""
+"<strong>Min, Max, & Step</strong>: Add a comma separated list of options in "
+"the following format <code>0,100,1</code> (slide from <code>0-100</code> in "
+"intervals of <code>1</code>). The three values represent the minimum, maximum, "
+"and step options and will only affect the Numeric Slider option type."
+
+#: option-tree/includes/ot-functions-admin.php:4201 loco:55ede19c14d725656e8b4724
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr "<strong>CSS Class</strong>: Add and optional class to this option type."
+
+#: option-tree/includes/ot-functions-admin.php:4209 loco:55ede19c14d725656e8b4725
+msgid ""
+"<strong>Condition</strong>: Add a comma separated list (no spaces) of "
+"conditions in which the field will be visible, leave this setting empty to "
+"always show the field. In these examples, <code>value</code> is a placeholder "
+"for your condition, which can be in the form of %s."
+msgstr ""
+"<strong>Condition</strong>: Add a comma separated list (no spaces) of "
+"conditions in which the field will be visible, leave this setting empty to "
+"always show the field. In these examples, <code>value</code> is a placeholder "
+"for your condition, which can be in the form of %s."
+
+#: option-tree/includes/ot-functions-admin.php:4217 loco:55ede19c14d725656e8b4726
+msgid ""
+"<strong>Operator</strong>: Choose the logical operator to compute the result "
+"of the conditions."
+msgstr ""
+"<strong>Operator</strong>: Choose the logical operator to compute the result "
+"of the conditions."
+
+#: option-tree/includes/ot-functions-admin.php:4221 loco:55ede19c14d725656e8b4727
+msgid "or"
+msgstr "or"
+
+#: option-tree/includes/ot-functions-admin.php:4267
+#: option-tree/includes/ot-functions-docs-page.php:29 loco:#: 55ede19c14d725656e8b4728
+msgid "Label"
+msgstr "Label"
+
+#: option-tree/includes/ot-functions-admin.php:4277 loco:55ede19c14d725656e8b4729
+msgid "Value"
+msgstr "Value"
+
+#: option-tree/includes/ot-functions-admin.php:4287 loco:55ede19c14d725656e8b472a
+msgid "Image Source (Radio Image only)"
+msgstr "Image Source (Radio Image only)"
+
+#: option-tree/includes/ot-functions-admin.php:4333 loco:55ede19c14d725656e8b472b
+msgid ""
+"<strong>Title</strong>: Displayed as a contextual help menu item on the Theme "
+"Options page."
+msgstr ""
+"<strong>Title</strong>: Displayed as a contextual help menu item on the Theme "
+"Options page."
+
+#: option-tree/includes/ot-functions-admin.php:4349 loco:55ede19c14d725656e8b472c
+msgid ""
+"<strong>Content</strong>: Enter the HTML content about this contextual help "
+"item displayed on the Theme Option page for end users to read."
+msgstr ""
+"<strong>Content</strong>: Enter the HTML content about this contextual help "
+"item displayed on the Theme Option page for end users to read."
+
+#: option-tree/includes/ot-functions-admin.php:4380 loco:55ede19c14d725656e8b472d
+msgid "Layout"
+msgstr "Layout"
+
+#: option-tree/includes/ot-functions-admin.php:4759 loco:55ede19c14d725656e8b472e
+msgid "New Layout"
+msgstr "New Layout"
+
+#: option-tree/includes/ot-functions-admin.php:5514 loco:55ede19c14d725656e8b472f
+msgid "Link URL"
+msgstr "Link URL"
+
+#: option-tree/includes/ot-functions-admin.php:5521 loco:55ede19c14d725656e8b4730
+msgid "Link Title"
+msgstr "Link Title"
+
+#: option-tree/includes/ot-functions-admin.php:5551 loco:55ede19c14d725656e8b4731
+msgid "Quote"
+msgstr "Quote"
+
+#: option-tree/includes/ot-functions-admin.php:5560 loco:55ede19c14d725656e8b4732
+msgid "Source Name (ex. author, singer, actor)"
+msgstr "Source Name (ex. author, singer, actor)"
+
+#: option-tree/includes/ot-functions-admin.php:5567 loco:55ede19c14d725656e8b4733
+msgid "Source URL"
+msgstr "Source URL"
+
+#: option-tree/includes/ot-functions-admin.php:5574 loco:55ede19c14d725656e8b4734
+msgid "Source Title (ex. book, song, movie)"
+msgstr "Source Title (ex. book, song, movie)"
+
+#: option-tree/includes/ot-functions-admin.php:5581 loco:55ede19c14d725656e8b4735
+msgid "Source Date"
+msgstr "Source Date"
+
+#: option-tree/includes/ot-functions-admin.php:5611 loco:55ede19c14d725656e8b4736
+msgid "Video"
+msgstr "Video"
+
+#: option-tree/includes/ot-functions-admin.php:5620 loco:55ede19c14d725656e8b4737
+msgid ""
+"Embed video from services like Youtube, Vimeo, or Hulu. You can find a list "
+"of supported oEmbed sites in the %1$s. Alternatively, you could use the built-"
+"in %2$s shortcode."
+msgstr ""
+"Embed video from services like Youtube, Vimeo, or Hulu. You can find a list "
+"of supported oEmbed sites in the %1$s. Alternatively, you could use the built-"
+"in %2$s shortcode."
+
+#: option-tree/includes/ot-functions-admin.php:5620
+#: option-tree/includes/ot-functions-admin.php:5659 loco:55ede19c14d725656e8b4738
+msgid "Wordpress Codex"
+msgstr "Wordpress Codex"
+
+#: option-tree/includes/ot-functions-admin.php:5650 loco:55ede19c14d725656e8b4739
+msgid "Audio"
+msgstr "Audio"
+
+#: option-tree/includes/ot-functions-admin.php:5659 loco:55ede19c14d725656e8b473a
+msgid ""
+"Embed audio from services like SoundCloud and Rdio. You can find a list of "
+"supported oEmbed sites in the %1$s. Alternatively, you could use the built-in %"
+"2$s shortcode."
+msgstr ""
+"Embed audio from services like SoundCloud and Rdio. You can find a list of "
+"supported oEmbed sites in the %1$s. Alternatively, you could use the built-in %"
+"2$s shortcode."
+
+#: option-tree/includes/ot-functions-docs-page.php:30 loco:#: 55ede19c14d725656e8b473b
+msgid ""
+"The Label field should be a short but descriptive block of text 100 "
+"characters or less with no HTML."
+msgstr ""
+"The Label field should be a short but descriptive block of text 100 "
+"characters or less with no HTML."
+
+#: option-tree/includes/ot-functions-docs-page.php:32 loco:#: 55ede19c14d725656e8b473c
+msgid "ID"
+msgstr "ID"
+
+#: option-tree/includes/ot-functions-docs-page.php:33 loco:#: 55ede19c14d725656e8b473d
+msgid ""
+"The ID field is a unique alphanumeric key used to differentiate each theme "
+"option (underscores are acceptable). Also, the plugin will change all text "
+"you write in this field to lowercase and replace spaces and special "
+"characters with an underscore automatically."
+msgstr ""
+"The ID field is a unique alphanumeric key used to differentiate each theme "
+"option (underscores are acceptable). Also, the plugin will change all text "
+"you write in this field to lowercase and replace spaces and special "
+"characters with an underscore automatically."
+
+#: option-tree/includes/ot-functions-docs-page.php:36 loco:#: 55ede19c14d725656e8b473e
+msgid ""
+"You are required to choose one of the supported option types when creating a "
+"new option. Here is a list of the available option types. For more "
+"information about each type click the <code>Option Types</code> tab to the "
+"left."
+msgstr ""
+"You are required to choose one of the supported option types when creating a "
+"new option. Here is a list of the available option types. For more "
+"information about each type click the <code>Option Types</code> tab to the "
+"left."
+
+#: option-tree/includes/ot-functions-docs-page.php:44 loco:#: 55ede19c14d725656e8b473f
+msgid ""
+"Enter a detailed description for the users to read on the Theme Options page, "
+"HTML is allowed. This is also where you enter content for both the Textblock & "
+"Textblock Titled option types."
+msgstr ""
+"Enter a detailed description for the users to read on the Theme Options page, "
+"HTML is allowed. This is also where you enter content for both the Textblock & "
+"Textblock Titled option types."
+
+#: option-tree/includes/ot-functions-docs-page.php:46 loco:#: 55ede19c14d725656e8b4740
+msgid "Choices"
+msgstr "Choices"
+
+#: option-tree/includes/ot-functions-docs-page.php:47 loco:#: 55ede19c14d725656e8b4741
+msgid ""
+"Click the \"Add Choice\" button to add an item to the choices array. This will "
+"only affect the following option types: Checkbox, Radio, Select & Select "
+"Image."
+msgstr ""
+"Click the \"Add Choice\" button to add an item to the choices array. This will "
+"only affect the following option types: Checkbox, Radio, Select & Select "
+"Image."
+
+#: option-tree/includes/ot-functions-docs-page.php:50 loco:#: 55ede19c14d725656e8b4742
+msgid ""
+"Click the \"Add Setting\" button found inside a newly created setting to add an "
+"item to the settings array. This will only affect the List Item type."
+msgstr ""
+"Click the \"Add Setting\" button found inside a newly created setting to add an "
+"item to the settings array. This will only affect the List Item type."
+
+#: option-tree/includes/ot-functions-docs-page.php:52
+#: option-tree/includes/ot-functions-option-types.php:1384 loco:#: 55ede19c14d725656e8b4743
+msgid "Standard"
+msgstr "Standard"
+
+#: option-tree/includes/ot-functions-docs-page.php:53 loco:#: 55ede19c14d725656e8b4744
+msgid ""
+"Setting the standard value for your option only works for some option types. "
+"Those types are one that have a single string value saved to them and not an "
+"array of values."
+msgstr ""
+"Setting the standard value for your option only works for some option types. "
+"Those types are one that have a single string value saved to them and not an "
+"array of values."
+
+#: option-tree/includes/ot-functions-docs-page.php:55 loco:#: 55ede19c14d725656e8b4745
+msgid "Rows"
+msgstr "Rows"
+
+#: option-tree/includes/ot-functions-docs-page.php:56 loco:#: 55ede19c14d725656e8b4746
+msgid ""
+"Enter a numeric value for the number of rows in your textarea. This will only "
+"affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr ""
+"Enter a numeric value for the number of rows in your textarea. This will only "
+"affect the following option types: CSS, Textarea, & Textarea Simple."
+
+#: option-tree/includes/ot-functions-docs-page.php:58 loco:#: 55ede19c14d725656e8b4747
+msgid "Post Type"
+msgstr "Post Type"
+
+#: option-tree/includes/ot-functions-docs-page.php:59 loco:#: 55ede19c14d725656e8b4748
+msgid ""
+"Add a comma separated list of post type like <code>post,page</code>. This "
+"will only affect the following option types: Custom Post Type Checkbox, & "
+"Custom Post Type Select. Below are the default post types available with "
+"WordPress and that are also compatible with OptionTree. You can also add your "
+"own custom <code>post_type</code>. At this time <code>any</code> does not "
+"seem to return results properly and is something I plan on looking into."
+msgstr ""
+"Add a comma separated list of post type like <code>post,page</code>. This "
+"will only affect the following option types: Custom Post Type Checkbox, & "
+"Custom Post Type Select. Below are the default post types available with "
+"WordPress and that are also compatible with OptionTree. You can also add your "
+"own custom <code>post_type</code>. At this time <code>any</code> does not "
+"seem to return results properly and is something I plan on looking into."
+
+#: option-tree/includes/ot-functions-docs-page.php:67 loco:#: 55ede19c14d725656e8b4749
+msgid "Taxonomy"
+msgstr "Taxonomy"
+
+#: option-tree/includes/ot-functions-docs-page.php:68 loco:#: 55ede19c14d725656e8b474a
+msgid ""
+"Add a comma separated list of any registered taxonomy like <code>category,"
+"post_tag</code>. This will only affect the following option types: Taxonomy "
+"Checkbox, & Taxonomy Select."
+msgstr ""
+"Add a comma separated list of any registered taxonomy like <code>category,"
+"post_tag</code>. This will only affect the following option types: Taxonomy "
+"Checkbox, & Taxonomy Select."
+
+#: option-tree/includes/ot-functions-docs-page.php:70 loco:#: 55ede19c14d725656e8b474b
+msgid "Min, Max, & Step"
+msgstr "Min, Max, & Step"
+
+#: option-tree/includes/ot-functions-docs-page.php:71 loco:#: 55ede19c14d725656e8b474c
+msgid ""
+"Add a comma separated list of options in the following format <code>0,100,1</"
+"code> (slide from <code>0-100</code> in intervals of <code>1</code>). The "
+"three values represent the minimum, maximum, and step options and will only "
+"affect the Numeric Slider option type."
+msgstr ""
+"Add a comma separated list of options in the following format <code>0,100,1</"
+"code> (slide from <code>0-100</code> in intervals of <code>1</code>). The "
+"three values represent the minimum, maximum, and step options and will only "
+"affect the Numeric Slider option type."
+
+#: option-tree/includes/ot-functions-docs-page.php:73 loco:#: 55ede19c14d725656e8b474d
+msgid "CSS Class"
+msgstr "CSS Class"
+
+#: option-tree/includes/ot-functions-docs-page.php:74 loco:#: 55ede19c14d725656e8b474e
+msgid "Add and optional class to any option type."
+msgstr "Add and optional class to any option type."
+
+#: option-tree/includes/ot-functions-docs-page.php:76 loco:#: 55ede19c14d725656e8b474f
+msgid "Condition"
+msgstr "Condition"
+
+#: option-tree/includes/ot-functions-docs-page.php:77 loco:#: 55ede19c14d725656e8b4750
+msgid ""
+"Add a comma separated list (no spaces) of conditions in which the field will "
+"be visible, leave this setting empty to always show the field. In these "
+"examples, %s is a placeholder for your condition, which can be in the form of %"
+"s."
+msgstr ""
+"Add a comma separated list (no spaces) of conditions in which the field will "
+"be visible, leave this setting empty to always show the field. In these "
+"examples, %s is a placeholder for your condition, which can be in the form of %"
+"s."
+
+#: option-tree/includes/ot-functions-docs-page.php:79 loco:#: 55ede19c14d725656e8b4751
+msgid "Operator"
+msgstr "Operator"
+
+#: option-tree/includes/ot-functions-docs-page.php:80 loco:#: 55ede19c14d725656e8b4752
+msgid ""
+"Choose the logical operator to compute the result of the conditions. Your "
+"options are %s and %s."
+msgstr ""
+"Choose the logical operator to compute the result of the conditions. Your "
+"options are %s and %s."
+
+#: option-tree/includes/ot-functions-docs-page.php:114 loco:#: 55ede19c14d725656e8b4753
+msgid ""
+"The Border option type is used to set width, unit, style, and color values. "
+"The text input excepts a numerical value and the unit select lets you choose "
+"the unit of measurement to add to that value. Currently the default units are %"
+"s, %s, %s, and %s. However, you can change them with the %s filter. The style "
+"select lets you choose the border style. The default styles are %s, %s, %s, %"
+"s, %s, %s, %s, and %s. However, you can change them with the %s filter. The "
+"colorpicker saves a hexadecimal color code."
+msgstr ""
+"The Border option type is used to set width, unit, style, and color values. "
+"The text input excepts a numerical value and the unit select lets you choose "
+"the unit of measurement to add to that value. Currently the default units are %"
+"s, %s, %s, and %s. However, you can change them with the %s filter. The style "
+"select lets you choose the border style. The default styles are %s, %s, %s, %"
+"s, %s, %s, %s, and %s. However, you can change them with the %s filter. The "
+"colorpicker saves a hexadecimal color code."
+
+#: option-tree/includes/ot-functions-docs-page.php:132 loco:#: 55ede19c14d725656e8b4754
+msgid ""
+"The Colorpicker Opacity option type saves a hexadecimal color code with an "
+"opacity value from %s to %s in increments of %s. Though the value is saved as "
+"hexadecimal, if used within the CSS option type the color and opacity values "
+"will be converted into a valid RGBA CSS value."
+msgstr ""
+"The Colorpicker Opacity option type saves a hexadecimal color code with an "
+"opacity value from %s to %s in increments of %s. Though the value is saved as "
+"hexadecimal, if used within the CSS option type the color and opacity values "
+"will be converted into a valid RGBA CSS value."
+
+#: option-tree/includes/ot-functions-docs-page.php:139 loco:#: 55ede19c14d725656e8b4755
+msgid "Input"
+msgstr "Input"
+
+#: option-tree/includes/ot-functions-docs-page.php:145 loco:#: 55ede19c14d725656e8b4756
+msgid "Output"
+msgstr "Output"
+
+#: option-tree/includes/ot-functions-docs-page.php:166 loco:#: 55ede19c14d725656e8b4757
+msgid ""
+"The Dimension option type is used to set width and height values. The text "
+"inputs except numerical values and the select lets you choose the unit of "
+"measurement to add to that value. Currently the default units are %s, %s, %s, "
+"and %s. However, you can change them with the %s filter."
+msgstr ""
+"The Dimension option type is used to set width and height values. The text "
+"inputs except numerical values and the select lets you choose the unit of "
+"measurement to add to that value. Currently the default units are %s, %s, %s, "
+"and %s. However, you can change them with the %s filter."
+
+#: option-tree/includes/ot-functions-docs-page.php:181 loco:#: 55ede19c14d725656e8b4758
+msgid ""
+"The List Item option type replaced the Slider option type and allows for a "
+"great deal of customization. You can add settings to the List Item and those "
+"settings will be displayed to the user when they add a new List Item. Typical "
+"use is for creating sliding content or blocks of code for custom layouts."
+msgstr ""
+"The List Item option type replaced the Slider option type and allows for a "
+"great deal of customization. You can add settings to the List Item and those "
+"settings will be displayed to the user when they add a new List Item. Typical "
+"use is for creating sliding content or blocks of code for custom layouts."
+
+#: option-tree/includes/ot-functions-docs-page.php:186 loco:#: 55ede19c14d725656e8b4759
+msgid "Example filter to add new units to the Measurement option type. Added to %s."
+msgstr "Example filter to add new units to the Measurement option type. Added to %s."
+
+#: option-tree/includes/ot-functions-docs-page.php:199 loco:#: 55ede19c14d725656e8b475a
+msgid ""
+"Example filter to completely change the units in the Measurement option type. "
+"Added to <code>functions.php</code>."
+msgstr ""
+"Example filter to completely change the units in the Measurement option type. "
+"Added to <code>functions.php</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:238 loco:#: 55ede19c14d725656e8b475b
+msgid ""
+"This example executes the <code>ot_radio_images</code> filter on layout "
+"images attached to the <code>my_radio_images</code> field. Added to <code>"
+"functions.php</code>."
+msgstr ""
+"This example executes the <code>ot_radio_images</code> filter on layout "
+"images attached to the <code>my_radio_images</code> field. Added to <code>"
+"functions.php</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:270 loco:#: 55ede19c14d725656e8b475c
+msgid ""
+"The Slider option type is technically deprecated. Use the List Item option "
+"type instead, as it's infinitely more customizable. Typical use is for "
+"creating sliding image content."
+msgstr ""
+"The Slider option type is technically deprecated. Use the List Item option "
+"type instead, as it's infinitely more customizable. Typical use is for "
+"creating sliding image content."
+
+#: option-tree/includes/ot-functions-docs-page.php:276 loco:#: 55ede19c14d725656e8b475d
+msgid ""
+"The Spacing option type is used to set spacing values such as padding or "
+"margin in the form of top, right, bottom, and left. The text inputs except "
+"numerical values and the select lets you choose the unit of measurement to "
+"add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+msgstr ""
+"The Spacing option type is used to set spacing values such as padding or "
+"margin in the form of top, right, bottom, and left. The text inputs except "
+"numerical values and the select lets you choose the unit of measurement to "
+"add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+
+#: option-tree/includes/ot-functions-docs-page.php:279 loco:#: 55ede19c14d725656e8b475e
+msgid "The Tab option type will break a section or metabox into tabbed content."
+msgstr "The Tab option type will break a section or metabox into tabbed content."
+
+#: option-tree/includes/ot-functions-docs-page.php:299 loco:#: 55ede19c14d725656e8b475f
+msgid ""
+"Example filters to alter the Textarea option type. Added to <code>functions."
+"php</code>."
+msgstr ""
+"Example filters to alter the Textarea option type. Added to <code>functions."
+"php</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:301 loco:#: 55ede19c14d725656e8b4760
+msgid ""
+"This example keeps WordPress from executing the <code>wpautop</code> filter "
+"on the line breaks. The default is <code>true</code> which means it wraps "
+"line breaks with an HTML <code>p</code> tag."
+msgstr ""
+"This example keeps WordPress from executing the <code>wpautop</code> filter "
+"on the line breaks. The default is <code>true</code> which means it wraps "
+"line breaks with an HTML <code>p</code> tag."
+
+#: option-tree/includes/ot-functions-docs-page.php:314 loco:#: 55ede19c14d725656e8b4761
+msgid ""
+"This example keeps WordPress from executing the <code>media_buttons</code> "
+"filter on the textarea WYSIWYG. The default is <code>true</code> which means "
+"show the buttons."
+msgstr ""
+"This example keeps WordPress from executing the <code>media_buttons</code> "
+"filter on the textarea WYSIWYG. The default is <code>true</code> which means "
+"show the buttons."
+
+#: option-tree/includes/ot-functions-docs-page.php:327 loco:#: 55ede19c14d725656e8b4762
+msgid ""
+"This example keeps WordPress from executing the <code>tinymce</code> filter "
+"on the textarea WYSIWYG. The default is <code>true</code> which means show "
+"the tinymce."
+msgstr ""
+"This example keeps WordPress from executing the <code>tinymce</code> filter "
+"on the textarea WYSIWYG. The default is <code>true</code> which means show "
+"the tinymce."
+
+#: option-tree/includes/ot-functions-docs-page.php:340 loco:#: 55ede19c14d725656e8b4763
+msgid ""
+"This example alters the <code>quicktags</code> filter on the textarea WYSIWYG. "
+"The default is <code>array( 'buttons' => 'strong,em,link,block,del,ins,img,ul,"
+"ol,li,code,spell,close' )</code> which means show those quicktags. It also "
+"means you can filter in your own custom quicktags."
+msgstr ""
+"This example alters the <code>quicktags</code> filter on the textarea WYSIWYG. "
+"The default is <code>array( 'buttons' => 'strong,em,link,block,del,ins,img,ul,"
+"ol,li,code,spell,close' )</code> which means show those quicktags. It also "
+"means you can filter in your own custom quicktags."
+
+#: option-tree/includes/ot-functions-docs-page.php:358 loco:#: 55ede19c14d725656e8b4764
+msgid ""
+"This example tells WordPress to execute the %s filter on the line breaks. The "
+"default is %s which means it does not wraps line breaks with an HTML %s tag. "
+"Added to %s."
+msgstr ""
+"This example tells WordPress to execute the %s filter on the line breaks. The "
+"default is %s which means it does not wraps line breaks with an HTML %s tag. "
+"Added to %s."
+
+#: option-tree/includes/ot-functions-docs-page.php:380 loco:#: 55ede19c14d725656e8b4765
+msgid ""
+"This example would filter <code>ot_recognized_font_families</code> to build "
+"your own font stack. Added to <code>functions.php</code>."
+msgstr ""
+"This example would filter <code>ot_recognized_font_families</code> to build "
+"your own font stack. Added to <code>functions.php</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:430 loco:#: 55ede19c14d725656e8b4766
+msgid ""
+"This function returns a value from the \"option_tree\" array of saved values or "
+"the default value supplied. The returned value would be mixed. Meaning it "
+"could be a string, integer, boolean, or array."
+msgstr ""
+"This function returns a value from the \"option_tree\" array of saved values or "
+"the default value supplied. The returned value would be mixed. Meaning it "
+"could be a string, integer, boolean, or array."
+
+#: option-tree/includes/ot-functions-docs-page.php:432
+#: option-tree/includes/ot-functions-docs-page.php:482 loco:#: 55ede19c14d725656e8b4767
+msgid "Usage"
+msgstr "Usage"
+
+#: option-tree/includes/ot-functions-docs-page.php:436
+#: option-tree/includes/ot-functions-docs-page.php:486 loco:#: 55ede19c14d725656e8b4768
+msgid "Parameters"
+msgstr "Parameters"
+
+#: option-tree/includes/ot-functions-docs-page.php:440
+#: option-tree/includes/ot-functions-docs-page.php:444
+#: option-tree/includes/ot-functions-docs-page.php:490 loco:#: 55ede19c14d725656e8b4769
+msgid "string"
+msgstr "string"
+
+#: option-tree/includes/ot-functions-docs-page.php:440
+#: option-tree/includes/ot-functions-docs-page.php:490 loco:#: 55ede19c14d725656e8b476a
+msgid "required"
+msgstr "required"
+
+#: option-tree/includes/ot-functions-docs-page.php:440 loco:#: 55ede19c14d725656e8b476b
+msgid "Enter the options unique identifier."
+msgstr "Enter the options unique identifier."
+
+#: option-tree/includes/ot-functions-docs-page.php:440
+#: option-tree/includes/ot-functions-docs-page.php:490 loco:#: 55ede19c14d725656e8b476c
+msgid "Default:"
+msgstr "Default:"
+
+#: option-tree/includes/ot-functions-docs-page.php:440
+#: option-tree/includes/ot-functions-docs-page.php:444
+#: option-tree/includes/ot-functions-docs-page.php:490
+#: option-tree/includes/ot-functions-docs-page.php:494 loco:#: 55ede19c14d725656e8b476d
+msgid "None"
+msgstr "None"
+
+#: option-tree/includes/ot-functions-docs-page.php:444
+#: option-tree/includes/ot-functions-docs-page.php:494
+#: option-tree/includes/ot-functions-docs-page.php:498
+#: option-tree/includes/ot-functions-docs-page.php:502
+#: option-tree/includes/ot-functions-docs-page.php:506 loco:#: 55ede19c14d725656e8b476e
+msgid "optional"
+msgstr "optional"
+
+#: option-tree/includes/ot-functions-docs-page.php:444 loco:#: 55ede19c14d725656e8b476f
+msgid "Enter a default return value. This is just incase the request returns null."
+msgstr "Enter a default return value. This is just incase the request returns null."
+
+#: option-tree/includes/ot-functions-docs-page.php:444
+#: option-tree/includes/ot-functions-docs-page.php:494
+#: option-tree/includes/ot-functions-docs-page.php:498
+#: option-tree/includes/ot-functions-docs-page.php:502
+#: option-tree/includes/ot-functions-docs-page.php:506 loco:#: 55ede19c14d725656e8b4770
+msgid "Default"
+msgstr "Default"
+
+#: option-tree/includes/ot-functions-docs-page.php:474 loco:#: 55ede19c14d725656e8b4771
+msgid ""
+"This function has been deprecated. That means it has been replaced by a new "
+"function or is no longer supported, and may be removed from future versions. "
+"All code that uses this function should be converted to use its replacement."
+msgstr ""
+"This function has been deprecated. That means it has been replaced by a new "
+"function or is no longer supported, and may be removed from future versions. "
+"All code that uses this function should be converted to use its replacement."
+
+#: option-tree/includes/ot-functions-docs-page.php:476 loco:#: 55ede19c14d725656e8b4772
+msgid "Use"
+msgstr "Use"
+
+#: option-tree/includes/ot-functions-docs-page.php:476 loco:#: 55ede19c14d725656e8b4773
+msgid "instead"
+msgstr "instead"
+
+#: option-tree/includes/ot-functions-docs-page.php:480 loco:#: 55ede19c14d725656e8b4774
+msgid ""
+"This function returns, or echos if asked, a value from the \"option_tree\" "
+"array of saved values."
+msgstr ""
+"This function returns, or echos if asked, a value from the \"option_tree\" "
+"array of saved values."
+
+#: option-tree/includes/ot-functions-docs-page.php:490 loco:#: 55ede19c14d725656e8b4775
+msgid "Enter a unique Option Key to get a returned value or array."
+msgstr "Enter a unique Option Key to get a returned value or array."
+
+#: option-tree/includes/ot-functions-docs-page.php:494 loco:#: 55ede19c14d725656e8b4776
+msgid "array"
+msgstr "array"
+
+#: option-tree/includes/ot-functions-docs-page.php:494 loco:#: 55ede19c14d725656e8b4777
+msgid "Used to cut down on database queries in template files."
+msgstr "Used to cut down on database queries in template files."
+
+#: option-tree/includes/ot-functions-docs-page.php:498
+#: option-tree/includes/ot-functions-docs-page.php:502 loco:#: 55ede19c14d725656e8b4778
+msgid "boolean"
+msgstr "boolean"
+
+#: option-tree/includes/ot-functions-docs-page.php:498 loco:#: 55ede19c14d725656e8b4779
+msgid "Echo the output."
+msgstr "Echo the output."
+
+#: option-tree/includes/ot-functions-docs-page.php:502 loco:#: 55ede19c14d725656e8b477a
+msgid "Used to indicate the $item_id is an array of values."
+msgstr "Used to indicate the $item_id is an array of values."
+
+#: option-tree/includes/ot-functions-docs-page.php:506 loco:#: 55ede19c14d725656e8b477b
+msgid "integer"
+msgstr "integer"
+
+#: option-tree/includes/ot-functions-docs-page.php:506 loco:#: 55ede19c14d725656e8b477c
+msgid ""
+"Numeric offset key for the $item_id array, -1 will return all values (an "
+"array starts at 0)."
+msgstr ""
+"Numeric offset key for the $item_id array, -1 will return all values (an "
+"array starts at 0)."
+
+#: option-tree/includes/ot-functions-docs-page.php:534 loco:#: 55ede19c14d725656e8b477d
+msgid ""
+"If you're using the plugin version of OptionTree it is highly recommended to "
+"include a <code>function_exists</code> check in your code, as described in "
+"the examples below. If you've integrated OptionTree directly into your themes "
+"root directory, you will <strong>not</strong> need to wrap your code with <"
+"code>function_exists</code>, as you're guaranteed to have the <code>ot_get_"
+"option()</code> function available."
+msgstr ""
+"If you're using the plugin version of OptionTree it is highly recommended to "
+"include a <code>function_exists</code> check in your code, as described in "
+"the examples below. If you've integrated OptionTree directly into your themes "
+"root directory, you will <strong>not</strong> need to wrap your code with <"
+"code>function_exists</code>, as you're guaranteed to have the <code>ot_get_"
+"option()</code> function available."
+
+#: option-tree/includes/ot-functions-docs-page.php:536 loco:#: 55ede19c14d725656e8b477e
+msgid "String Examples"
+msgstr "String Examples"
+
+#: option-tree/includes/ot-functions-docs-page.php:538 loco:#: 55ede19c14d725656e8b477f
+msgid "Returns the value of <code>test_input</code>."
+msgstr "Returns the value of <code>test_input</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:544 loco:#: 55ede19c14d725656e8b4780
+msgid ""
+"Returns the value of <code>test_input</code>, but also has a default value if "
+"it returns empty."
+msgstr ""
+"Returns the value of <code>test_input</code>, but also has a default value if "
+"it returns empty."
+
+#: option-tree/includes/ot-functions-docs-page.php:550 loco:#: 55ede19c14d725656e8b4781
+msgid "Array Examples"
+msgstr "Array Examples"
+
+#: option-tree/includes/ot-functions-docs-page.php:552 loco:#: 55ede19c14d725656e8b4782
+msgid ""
+"Assigns the value of <code>navigation_ids</code> to the variable <code>$ids</"
+"code>. It then echos an unordered list of links (navigation) using <code>wp_"
+"list_pages()</code>."
+msgstr ""
+"Assigns the value of <code>navigation_ids</code> to the variable <code>$ids</"
+"code>. It then echos an unordered list of links (navigation) using <code>wp_"
+"list_pages()</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:572 loco:#: 55ede19c14d725656e8b4783
+msgid ""
+"The next two examples demonstrate how to use the <strong>Measurement</strong> "
+"option type. The Measurement option type is an array with two key/value pairs. "
+"The first is the value of measurement and the second is the unit of "
+"measurement."
+msgstr ""
+"The next two examples demonstrate how to use the <strong>Measurement</strong> "
+"option type. The Measurement option type is an array with two key/value pairs. "
+"The first is the value of measurement and the second is the unit of "
+"measurement."
+
+#: option-tree/includes/ot-functions-docs-page.php:598 loco:#: 55ede19c14d725656e8b4784
+msgid "This example displays a very basic slider loop."
+msgstr "This example displays a very basic slider loop."
+
+#: option-tree/includes/ot-functions-docs-page.php:643 loco:#: 55ede19c14d725656e8b4785
+msgid "It's Super Simple"
+msgstr "It's Super Simple"
+
+#: option-tree/includes/ot-functions-docs-page.php:645 loco:#: 55ede19c14d725656e8b4786
+msgid ""
+"Layouts make your theme awesome! With theme options data that you can save/"
+"import/export you can package themes with different color variations, or make "
+"it easy to do A/B testing on text and so much more. Basically, you save a "
+"snapshot of your data as a layout."
+msgstr ""
+"Layouts make your theme awesome! With theme options data that you can save/"
+"import/export you can package themes with different color variations, or make "
+"it easy to do A/B testing on text and so much more. Basically, you save a "
+"snapshot of your data as a layout."
+
+#: option-tree/includes/ot-functions-docs-page.php:647 loco:#: 55ede19c14d725656e8b4787
+msgid ""
+"Once you have created all your different layouts, or theme variations, you "
+"can save them to a separate text file for repackaging with your theme. "
+"Alternatively, you could just make different variations for yourself and "
+"change your theme with the click of a button, all without deleting your "
+"previous options data."
+msgstr ""
+"Once you have created all your different layouts, or theme variations, you "
+"can save them to a separate text file for repackaging with your theme. "
+"Alternatively, you could just make different variations for yourself and "
+"change your theme with the click of a button, all without deleting your "
+"previous options data."
+
+#: option-tree/includes/ot-functions-docs-page.php:649 loco:#: 55ede19c14d725656e8b4788
+msgid ""
+" Adding a layout is ridiculously easy, follow these steps and you'll be on "
+"your way to having a WordPress super theme."
+msgstr ""
+" Adding a layout is ridiculously easy, follow these steps and you'll be on "
+"your way to having a WordPress super theme."
+
+#: option-tree/includes/ot-functions-docs-page.php:651 loco:#: 55ede19c14d725656e8b4789
+msgid "For Developers"
+msgstr "For Developers"
+
+#: option-tree/includes/ot-functions-docs-page.php:653
+#: option-tree/includes/ot-functions-docs-page.php:682 loco:#: 55ede19c14d725656e8b478a
+msgid "Creating a Layout"
+msgstr "Creating a Layout"
+
+#: option-tree/includes/ot-functions-docs-page.php:655
+#: option-tree/includes/ot-functions-docs-page.php:662
+#: option-tree/includes/ot-functions-docs-page.php:668 loco:#: 55ede19c14d725656e8b478b
+msgid "Go to the <code>OptionTre->Settings->Layouts</code> tab."
+msgstr "Go to the <code>OptionTre->Settings->Layouts</code> tab."
+
+#: option-tree/includes/ot-functions-docs-page.php:656 loco:#: 55ede19c14d725656e8b478c
+msgid ""
+"Enter a name for your layout in the text field and hit \"Save Layouts\", you've "
+"created your first layout."
+msgstr ""
+"Enter a name for your layout in the text field and hit \"Save Layouts\", you've "
+"created your first layout."
+
+#: option-tree/includes/ot-functions-docs-page.php:657
+#: option-tree/includes/ot-functions-docs-page.php:686 loco:#: 55ede19c14d725656e8b478d
+msgid "Adding a new layout is as easy as repeating the steps above."
+msgstr "Adding a new layout is as easy as repeating the steps above."
+
+#: option-tree/includes/ot-functions-docs-page.php:660
+#: option-tree/includes/ot-functions-docs-page.php:689 loco:#: 55ede19c14d725656e8b478e
+msgid "Activating a Layout"
+msgstr "Activating a Layout"
+
+#: option-tree/includes/ot-functions-docs-page.php:663 loco:#: 55ede19c14d725656e8b478f
+msgid "Click on the activate layout button in the actions list."
+msgstr "Click on the activate layout button in the actions list."
+
+#: option-tree/includes/ot-functions-docs-page.php:666
+#: option-tree/includes/ot-functions-docs-page.php:695 loco:#: 55ede19c14d725656e8b4790
+msgid "Deleting a Layout"
+msgstr "Deleting a Layout"
+
+#: option-tree/includes/ot-functions-docs-page.php:669 loco:#: 55ede19c14d725656e8b4791
+msgid "Click on the delete layout button in the actions list."
+msgstr "Click on the delete layout button in the actions list."
+
+#: option-tree/includes/ot-functions-docs-page.php:672
+#: option-tree/includes/ot-functions-docs-page.php:700 loco:#: 55ede19c14d725656e8b4792
+msgid "Edit Layout Data"
+msgstr "Edit Layout Data"
+
+#: option-tree/includes/ot-functions-docs-page.php:674
+#: option-tree/includes/ot-functions-docs-page.php:684
+#: option-tree/includes/ot-functions-docs-page.php:691 loco:#: 55ede19c14d725656e8b4793
+msgid "Go to the <code>Appearance->Theme Options</code> page."
+msgstr "Go to the <code>Appearance->Theme Options</code> page."
+
+#: option-tree/includes/ot-functions-docs-page.php:675
+#: option-tree/includes/ot-functions-docs-page.php:703 loco:#: 55ede19c14d725656e8b4794
+msgid ""
+"Modify and save your theme options and the layout will be updated "
+"automatically."
+msgstr ""
+"Modify and save your theme options and the layout will be updated "
+"automatically."
+
+#: option-tree/includes/ot-functions-docs-page.php:676
+#: option-tree/includes/ot-functions-docs-page.php:704 loco:#: 55ede19c14d725656e8b4795
+msgid ""
+"Saving theme options data will update the currently active layout, so before "
+"you start saving make sure you want to modify the current layout."
+msgstr ""
+"Saving theme options data will update the currently active layout, so before "
+"you start saving make sure you want to modify the current layout."
+
+#: option-tree/includes/ot-functions-docs-page.php:677 loco:#: 55ede19c14d725656e8b4796
+msgid ""
+"If you want to edit a new layout, first create it then save your theme "
+"options."
+msgstr ""
+"If you want to edit a new layout, first create it then save your theme "
+"options."
+
+#: option-tree/includes/ot-functions-docs-page.php:680 loco:#: 55ede19c14d725656e8b4797
+msgid "End-Users Mode"
+msgstr "End-Users Mode"
+
+#: option-tree/includes/ot-functions-docs-page.php:685 loco:#: 55ede19c14d725656e8b4798
+msgid ""
+"Enter a name for your layout in the text field and hit \"New Layout\", you've "
+"created your first layout."
+msgstr ""
+"Enter a name for your layout in the text field and hit \"New Layout\", you've "
+"created your first layout."
+
+#: option-tree/includes/ot-functions-docs-page.php:692 loco:#: 55ede19c14d725656e8b4799
+msgid "Choose a layout from the select list and click the \"Activate Layout\" button."
+msgstr "Choose a layout from the select list and click the \"Activate Layout\" button."
+
+#: option-tree/includes/ot-functions-docs-page.php:697 loco:#: 55ede19c14d725656e8b479a
+msgid "End-Users mode does not allow deleting layouts."
+msgstr "End-Users mode does not allow deleting layouts."
+
+#: option-tree/includes/ot-functions-docs-page.php:702 loco:#: 55ede19c14d725656e8b479b
+msgid "Go to the <code>Appearance->Theme Options</code> tab."
+msgstr "Go to the <code>Appearance->Theme Options</code> tab."
+
+#: option-tree/includes/ot-functions-docs-page.php:733
+#: option-tree/includes/ot-functions-docs-page.php:815 loco:#: 55ede19c14d725656e8b479c
+msgid "How-to-guide"
+msgstr "How-to-guide"
+
+#: option-tree/includes/ot-functions-docs-page.php:735 loco:#: 55ede19c14d725656e8b479d
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree's "
+"built in Meta Box API. In the code below I'll show you a basic demo of how to "
+"create your very own custom meta box using any number of the option types you "
+"have at your disposal. If you would like to see some demo code, there is a "
+"directory named <code>theme-mode</code> inside the <code>assets</code> "
+"directory that contains a file named <code>demo-meta-boxes.php</code> you can "
+"reference."
+msgstr ""
+"There are a few simple steps you need to take in order to use OptionTree's "
+"built in Meta Box API. In the code below I'll show you a basic demo of how to "
+"create your very own custom meta box using any number of the option types you "
+"have at your disposal. If you would like to see some demo code, there is a "
+"directory named <code>theme-mode</code> inside the <code>assets</code> "
+"directory that contains a file named <code>demo-meta-boxes.php</code> you can "
+"reference."
+
+#: option-tree/includes/ot-functions-docs-page.php:737 loco:#: 55ede19c14d725656e8b479e
+msgid ""
+"It's important to note that Meta Boxes do not support WYSIWYG editors at this "
+"time and if you set one of your options to Textarea it will automatically "
+"revert to a Textarea Simple until a valid solution is found. WordPress "
+"released this statement regarding the wp_editor() function:"
+msgstr ""
+"It's important to note that Meta Boxes do not support WYSIWYG editors at this "
+"time and if you set one of your options to Textarea it will automatically "
+"revert to a Textarea Simple until a valid solution is found. WordPress "
+"released this statement regarding the wp_editor() function:"
+
+#: option-tree/includes/ot-functions-docs-page.php:739 loco:#: 55ede19c14d725656e8b479f
+msgid ""
+"Once instantiated, the WYSIWYG editor cannot be moved around in the DOM. What "
+"this means in practical terms, is that you cannot put it in meta-boxes that "
+"can be dragged and placed elsewhere on the page."
+msgstr ""
+"Once instantiated, the WYSIWYG editor cannot be moved around in the DOM. What "
+"this means in practical terms, is that you cannot put it in meta-boxes that "
+"can be dragged and placed elsewhere on the page."
+
+#: option-tree/includes/ot-functions-docs-page.php:741 loco:#: 55ede19c14d725656e8b47a0
+msgid "Create and include your custom meta boxes file."
+msgstr "Create and include your custom meta boxes file."
+
+#: option-tree/includes/ot-functions-docs-page.php:743 loco:#: 55ede19c14d725656e8b47a1
+msgid "Create a file and name it anything you want, maybe <code>meta-boxes.php</code>."
+msgstr "Create a file and name it anything you want, maybe <code>meta-boxes.php</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:744 loco:#: 55ede19c14d725656e8b47a2
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>meta-boxes.php</code> into which will help keep you "
+"file structure nice and tidy."
+msgstr ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>meta-boxes.php</code> into which will help keep you "
+"file structure nice and tidy."
+
+#: option-tree/includes/ot-functions-docs-page.php:745
+#: option-tree/includes/ot-functions-docs-page.php:845 loco:#: 55ede19c14d725656e8b47a3
+msgid "Add the following code to your <code>functions.php</code>."
+msgstr "Add the following code to your <code>functions.php</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:755 loco:#: 55ede19c14d725656e8b47a4
+msgid ""
+"Add a variation of the following code to your <code>meta-boxes.php</code>. "
+"You'll obviously need to fill it in with all your custom array values. It's "
+"important to note here that we use the <code>admin_init</code> filter because "
+"if you were to call the <code>ot_register_meta_box</code> function before "
+"OptionTree was loaded the sky would fall on your head."
+msgstr ""
+"Add a variation of the following code to your <code>meta-boxes.php</code>. "
+"You'll obviously need to fill it in with all your custom array values. It's "
+"important to note here that we use the <code>admin_init</code> filter because "
+"if you were to call the <code>ot_register_meta_box</code> function before "
+"OptionTree was loaded the sky would fall on your head."
+
+#: option-tree/includes/ot-functions-docs-page.php:817 loco:#: 55ede19c14d725656e8b47a5
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree as a "
+"theme included module. In the code below I'll show you a basic demo of how to "
+"include the entire plugin as a module, which will allow you to have the most "
+"up-to-date version of OptionTree without ever needing to hack the core of the "
+"plugin. If you would like to see some demo code, there is a directory named <"
+"code>theme-mode</code> inside the <code>assets</code> directory that contains "
+"a file named <code>demo-theme-options.php</code> you can reference."
+msgstr ""
+"There are a few simple steps you need to take in order to use OptionTree as a "
+"theme included module. In the code below I'll show you a basic demo of how to "
+"include the entire plugin as a module, which will allow you to have the most "
+"up-to-date version of OptionTree without ever needing to hack the core of the "
+"plugin. If you would like to see some demo code, there is a directory named <"
+"code>theme-mode</code> inside the <code>assets</code> directory that contains "
+"a file named <code>demo-theme-options.php</code> you can reference."
+
+#: option-tree/includes/ot-functions-docs-page.php:819 loco:#: 55ede19c14d725656e8b47a6
+msgid "Step 1: Include the plugin & turn on theme mode."
+msgstr "Step 1: Include the plugin & turn on theme mode."
+
+#: option-tree/includes/ot-functions-docs-page.php:821 loco:#: 55ede19c14d725656e8b47a7
+msgid "Download the latest version of %s and unarchive the %s directory."
+msgstr "Download the latest version of %s and unarchive the %s directory."
+
+#: option-tree/includes/ot-functions-docs-page.php:822 loco:#: 55ede19c14d725656e8b47a8
+msgid ""
+"Put the %s directory in the root of your theme. For example, the server path "
+"would be %s."
+msgstr ""
+"Put the %s directory in the root of your theme. For example, the server path "
+"would be %s."
+
+#: option-tree/includes/ot-functions-docs-page.php:823 loco:#: 55ede19c14d725656e8b47a9
+msgid "Add the following code to the beginning of your %s."
+msgstr "Add the following code to the beginning of your %s."
+
+#: option-tree/includes/ot-functions-docs-page.php:837 loco:#: 55ede19c14d725656e8b47aa
+msgid ""
+"For a list of all the OptionTree UI display filters refer to the %s file "
+"found in the %s directory of this plugin. This file is the starting point for "
+"developing themes with Theme Mode."
+msgstr ""
+"For a list of all the OptionTree UI display filters refer to the %s file "
+"found in the %s directory of this plugin. This file is the starting point for "
+"developing themes with Theme Mode."
+
+#: option-tree/includes/ot-functions-docs-page.php:839 loco:#: 55ede19c14d725656e8b47ab
+msgid ""
+"You now have OptionTree built into your theme and anytime an update is "
+"available replace the old version with the new one."
+msgstr ""
+"You now have OptionTree built into your theme and anytime an update is "
+"available replace the old version with the new one."
+
+#: option-tree/includes/ot-functions-docs-page.php:841 loco:#: 55ede19c14d725656e8b47ac
+msgid "Step 2: Create Theme Options without using the UI Builder."
+msgstr "Step 2: Create Theme Options without using the UI Builder."
+
+#: option-tree/includes/ot-functions-docs-page.php:843 loco:#: 55ede19c14d725656e8b47ad
+msgid ""
+"Create a file and name it anything you want, maybe <code>theme-options.php</"
+"code>, or use the built in file export to create it for you. Remember, you "
+"should always check the file for errors before including it in your theme."
+msgstr ""
+"Create a file and name it anything you want, maybe <code>theme-options.php</"
+"code>, or use the built in file export to create it for you. Remember, you "
+"should always check the file for errors before including it in your theme."
+
+#: option-tree/includes/ot-functions-docs-page.php:844 loco:#: 55ede19c14d725656e8b47ae
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>theme-options.php</code> into which will help keep "
+"you file structure nice and tidy."
+msgstr ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>theme-options.php</code> into which will help keep "
+"you file structure nice and tidy."
+
+#: option-tree/includes/ot-functions-docs-page.php:855 loco:#: 55ede19c14d725656e8b47af
+msgid ""
+"Add a variation of the following code to your <code>theme-options.php</code>. "
+"You'll obviously need to fill it in with all your custom array values for "
+"contextual help (optional), sections (required), and settings (required)."
+msgstr ""
+"Add a variation of the following code to your <code>theme-options.php</code>. "
+"You'll obviously need to fill it in with all your custom array values for "
+"contextual help (optional), sections (required), and settings (required)."
+
+#: option-tree/includes/ot-functions-docs-page.php:858 loco:#: 55ede19c14d725656e8b47b0
+msgid ""
+"The code below is a boilerplate to get your started. For a full list of the "
+"available option types click the \"Option Types\" tab above. Also a quick note, "
+"you don't need to put OptionTree in theme mode to manually create options but "
+"you will want to hide the docs and settings as each time you load the admin "
+"area the settings be written over with the code below if they've changed in "
+"any way. However, this ensures your settings do not get tampered with by the "
+"end-user."
+msgstr ""
+"The code below is a boilerplate to get your started. For a full list of the "
+"available option types click the \"Option Types\" tab above. Also a quick note, "
+"you don't need to put OptionTree in theme mode to manually create options but "
+"you will want to hide the docs and settings as each time you load the admin "
+"area the settings be written over with the code below if they've changed in "
+"any way. However, this ensures your settings do not get tampered with by the "
+"end-user."
+
+#: option-tree/includes/ot-functions-option-types.php:46 loco:#: 55ede19c14d725656e8b47b1
+msgid "Sorry, this function does not exist"
+msgstr "Sorry, this function does not exist"
+
+#: option-tree/includes/ot-functions-option-types.php:134 loco:#: 55ede19c14d725656e8b47b2
+msgid "background-repeat"
+msgstr "background-repeat"
+
+#: option-tree/includes/ot-functions-option-types.php:152 loco:#: 55ede19c14d725656e8b47b3
+msgid "background-attachment"
+msgstr "background-attachment"
+
+#: option-tree/includes/ot-functions-option-types.php:171 loco:#: 55ede19c14d725656e8b47b4
+msgid "background-position"
+msgstr "background-position"
+
+#: option-tree/includes/ot-functions-option-types.php:224 loco:#: 55ede19c14d725656e8b47b5
+msgid "background-size"
+msgstr "background-size"
+
+#: option-tree/includes/ot-functions-option-types.php:238 loco:#: 55ede19c14d725656e8b47b6
+msgid "background-image"
+msgstr "background-image"
+
+#: option-tree/includes/ot-functions-option-types.php:241
+#: option-tree/includes/ot-functions-option-types.php:3202 loco:#: 55ede19c14d725656e8b47b7
+msgid "Add Media"
+msgstr "Add Media"
+
+#: option-tree/includes/ot-functions-option-types.php:316
+#: option-tree/includes/ot-functions-option-types.php:1045 loco:#: 55ede19c14d725656e8b47b8
+msgid "width"
+msgstr "width"
+
+#: option-tree/includes/ot-functions-option-types.php:327
+#: option-tree/includes/ot-functions-option-types.php:1065
+#: option-tree/includes/ot-functions-option-types.php:1550
+#: option-tree/includes/ot-functions-option-types.php:2506 loco:#: 55ede19c14d725656e8b47b9
+msgid "unit"
+msgstr "unit"
+
+#: option-tree/includes/ot-functions-option-types.php:346 loco:#: 55ede19c14d725656e8b47ba
+msgid "style"
+msgstr "style"
+
+#: option-tree/includes/ot-functions-option-types.php:439 loco:#: 55ede19c14d725656e8b47bb
+msgid "offset-x"
+msgstr "offset-x"
+
+#: option-tree/includes/ot-functions-option-types.php:448 loco:#: 55ede19c14d725656e8b47bc
+msgid "offset-y"
+msgstr "offset-y"
+
+#: option-tree/includes/ot-functions-option-types.php:457 loco:#: 55ede19c14d725656e8b47bd
+msgid "blur-radius"
+msgstr "blur-radius"
+
+#: option-tree/includes/ot-functions-option-types.php:466 loco:#: 55ede19c14d725656e8b47be
+msgid "spread-radius"
+msgstr "spread-radius"
+
+#: option-tree/includes/ot-functions-option-types.php:538
+#: option-tree/includes/ot-functions-option-types.php:592 loco:#: 55ede19c14d725656e8b47bf
+msgid "No Categories Found"
+msgstr "No Categories Found"
+
+#: option-tree/includes/ot-functions-option-types.php:587
+#: option-tree/includes/ot-functions-option-types.php:870
+#: option-tree/includes/ot-functions-option-types.php:1819
+#: option-tree/includes/ot-functions-option-types.php:1930
+#: option-tree/includes/ot-functions-option-types.php:2646
+#: option-tree/includes/ot-functions-option-types.php:2761 loco:#: 55ede19c14d725656e8b47c0
+msgid "Choose One"
+msgstr "Choose One"
+
+#: option-tree/includes/ot-functions-option-types.php:818
+#: option-tree/includes/ot-functions-option-types.php:876
+#: option-tree/includes/ot-functions-option-types.php:1881
+#: option-tree/includes/ot-functions-option-types.php:1936 loco:#: 55ede19c14d725656e8b47c1
+msgid "No Posts Found"
+msgstr "No Posts Found"
+
+#: option-tree/includes/ot-functions-option-types.php:1054 loco:#: 55ede19c14d725656e8b47c2
+msgid "height"
+msgstr "height"
+
+#: option-tree/includes/ot-functions-option-types.php:1232
+#: option-tree/includes/ot-functions-option-types.php:1275 loco:#: 55ede19c14d725656e8b47c3
+msgid "Remove Google Font"
+msgstr "Remove Google Font"
+
+#: option-tree/includes/ot-functions-option-types.php:1298 loco:#: 55ede19c14d725656e8b47c4
+msgid "Add Google Font"
+msgstr "Add Google Font"
+
+#: option-tree/includes/ot-functions-option-types.php:1385 loco:#: 55ede19c14d725656e8b47c5
+msgid "Hover"
+msgstr "Hover"
+
+#: option-tree/includes/ot-functions-option-types.php:1387 loco:#: 55ede19c14d725656e8b47c6
+msgid "Visited"
+msgstr "Visited"
+
+#: option-tree/includes/ot-functions-option-types.php:1388 loco:#: 55ede19c14d725656e8b47c7
+msgid "Focus"
+msgstr "Focus"
+
+#: option-tree/includes/ot-functions-option-types.php:1497
+#: option-tree/includes/ot-functions-option-types.php:2246
+#: option-tree/includes/ot-functions-option-types.php:2411 loco:#: 55ede19c14d725656e8b47c8
+msgid "Add New"
+msgstr "Add New"
+
+#: option-tree/includes/ot-functions-option-types.php:1500
+#: option-tree/includes/ot-functions-option-types.php:2249
+#: option-tree/includes/ot-functions-option-types.php:2414 loco:#: 55ede19c14d725656e8b47c9
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr "You can re-order with drag & drop, the order will update after saving."
+
+#: option-tree/includes/ot-functions-option-types.php:1670 loco:#: 55ede19c14d725656e8b47ca
+msgid "On"
+msgstr "On"
+
+#: option-tree/includes/ot-functions-option-types.php:1692 loco:#: 55ede19c14d725656e8b47cb
+msgid "Off"
+msgstr "Off"
+
+#: option-tree/includes/ot-functions-option-types.php:1770
+#: option-tree/includes/ot-functions-option-types.php:1825 loco:#: 55ede19c14d725656e8b47cc
+msgid "No Pages Found"
+msgstr "Nenhuma página foi encontrada"
+
+#: option-tree/includes/ot-functions-option-types.php:2169 loco:#: 55ede19c14d725656e8b47cd
+msgid "Choose Sidebar"
+msgstr "Choose Sidebar"
+
+#: option-tree/includes/ot-functions-option-types.php:2174 loco:#: 55ede19c14d725656e8b47ce
+msgid "No Sidebars"
+msgstr "No Sidebars"
+
+#: option-tree/includes/ot-functions-option-types.php:2282 loco:#: 55ede19c14d725656e8b47cf
+msgid "Facebook"
+msgstr "Facebook"
+
+#: option-tree/includes/ot-functions-option-types.php:2287 loco:#: 55ede19c14d725656e8b47d0
+msgid "Twitter"
+msgstr "Twitter"
+
+#: option-tree/includes/ot-functions-option-types.php:2292 loco:#: 55ede19c14d725656e8b47d1
+msgid "Google+"
+msgstr "Google+"
+
+#: option-tree/includes/ot-functions-option-types.php:2297 loco:#: 55ede19c14d725656e8b47d2
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: option-tree/includes/ot-functions-option-types.php:2302 loco:#: 55ede19c14d725656e8b47d3
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: option-tree/includes/ot-functions-option-types.php:2307 loco:#: 55ede19c14d725656e8b47d4
+msgid "Youtube"
+msgstr "Youtube"
+
+#: option-tree/includes/ot-functions-option-types.php:2312 loco:#: 55ede19c14d725656e8b47d5
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: option-tree/includes/ot-functions-option-types.php:2317 loco:#: 55ede19c14d725656e8b47d6
+msgid "Github"
+msgstr "Github"
+
+#: option-tree/includes/ot-functions-option-types.php:2322 loco:#: 55ede19c14d725656e8b47d7
+msgid "Forrst"
+msgstr "Forrst"
+
+#: option-tree/includes/ot-functions-option-types.php:2327 loco:#: 55ede19c14d725656e8b47d8
+msgid "Digg"
+msgstr "Digg"
+
+#: option-tree/includes/ot-functions-option-types.php:2332 loco:#: 55ede19c14d725656e8b47d9
+msgid "Delicious"
+msgstr "Delicious"
+
+#: option-tree/includes/ot-functions-option-types.php:2337 loco:#: 55ede19c14d725656e8b47da
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: option-tree/includes/ot-functions-option-types.php:2342 loco:#: 55ede19c14d725656e8b47db
+msgid "Skype"
+msgstr "Skype"
+
+#: option-tree/includes/ot-functions-option-types.php:2347 loco:#: 55ede19c14d725656e8b47dc
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: option-tree/includes/ot-functions-option-types.php:2352 loco:#: 55ede19c14d725656e8b47dd
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: option-tree/includes/ot-functions-option-types.php:2357 loco:#: 55ede19c14d725656e8b47de
+msgid "Flickr"
+msgstr "Flickr"
+
+#: option-tree/includes/ot-functions-option-types.php:2362 loco:#: 55ede19c14d725656e8b47df
+msgid "VK.com"
+msgstr "VK.com"
+
+#: option-tree/includes/ot-functions-option-types.php:2468 loco:#: 55ede19c14d725656e8b47e0
+msgid "top"
+msgstr "top"
+
+#: option-tree/includes/ot-functions-option-types.php:2477 loco:#: 55ede19c14d725656e8b47e1
+msgid "right"
+msgstr "right"
+
+#: option-tree/includes/ot-functions-option-types.php:2486 loco:#: 55ede19c14d725656e8b47e2
+msgid "bottom"
+msgstr "bottom"
+
+#: option-tree/includes/ot-functions-option-types.php:2495 loco:#: 55ede19c14d725656e8b47e3
+msgid "left"
+msgstr "left"
+
+#: option-tree/includes/ot-functions-option-types.php:2597
+#: option-tree/includes/ot-functions-option-types.php:2651 loco:#: 55ede19c14d725656e8b47e4
+msgid "No Tags Found"
+msgstr "No Tags Found"
+
+#: option-tree/includes/ot-functions-option-types.php:2709
+#: option-tree/includes/ot-functions-option-types.php:2766 loco:#: 55ede19c14d725656e8b47e5
+msgid "No Taxonomies Found"
+msgstr "No Taxonomies Found"
+
+#: option-tree/includes/ot-functions-settings-page.php:35 loco:#: 55ede19c14d725656e8b47e6
+msgid "Warning!"
+msgstr "Warning!"
+
+#: option-tree/includes/ot-functions-settings-page.php:36 loco:#: 55ede19c14d725656e8b47e7
+msgid "Go to the %s page if you want to save data, this page is for adding settings."
+msgstr "Go to the %s page if you want to save data, this page is for adding settings."
+
+#: option-tree/includes/ot-functions-settings-page.php:37 loco:#: 55ede19c14d725656e8b47e8
+msgid ""
+"If you're unsure or not completely positive that you should be editing these "
+"settings, you should read the %s first."
+msgstr ""
+"If you're unsure or not completely positive that you should be editing these "
+"settings, you should read the %s first."
+
+#: option-tree/includes/ot-functions-settings-page.php:38 loco:#: 55ede19c14d725656e8b47e9
+msgid ""
+"Things could break or be improperly displayed to the end-user if you do one "
+"of the following:"
+msgstr ""
+"Things could break or be improperly displayed to the end-user if you do one "
+"of the following:"
+
+#: option-tree/includes/ot-functions-settings-page.php:39 loco:#: 55ede19c14d725656e8b47ea
+msgid ""
+"Give two sections the same ID, give two settings the same ID, give two "
+"contextual help content areas the same ID, don't create any settings, or have "
+"a section at the end of the settings list."
+msgstr ""
+"Give two sections the same ID, give two settings the same ID, give two "
+"contextual help content areas the same ID, don't create any settings, or have "
+"a section at the end of the settings list."
+
+#: option-tree/includes/ot-functions-settings-page.php:40 loco:#: 55ede19c14d725656e8b47eb
+msgid ""
+"You can create as many settings as your project requires and use them how you "
+"see fit. When you add a setting here, it will be available on the Theme "
+"Options page for use in your theme. To separate your settings into sections, "
+"click the \"Add Section\" button, fill in the input fields, and a new "
+"navigation menu item will be created."
+msgstr ""
+"You can create as many settings as your project requires and use them how you "
+"see fit. When you add a setting here, it will be available on the Theme "
+"Options page for use in your theme. To separate your settings into sections, "
+"click the \"Add Section\" button, fill in the input fields, and a new "
+"navigation menu item will be created."
+
+#: option-tree/includes/ot-functions-settings-page.php:41 loco:#: 55ede19c14d725656e8b47ec
+msgid ""
+"All of the settings can be sorted and rearranged to your liking with Drag & "
+"Drop. Don't worry about the order in which you create your settings, you can "
+"always reorder them."
+msgstr ""
+"All of the settings can be sorted and rearranged to your liking with Drag & "
+"Drop. Don't worry about the order in which you create your settings, you can "
+"always reorder them."
+
+#: option-tree/includes/ot-functions-settings-page.php:92 loco:#: 55ede19c14d725656e8b47ed
+msgid "Add Section"
+msgstr "Add Section"
+
+#: option-tree/includes/ot-functions-settings-page.php:99 loco:#: 55ede19c14d725656e8b47ee
+msgid "Contextual Help"
+msgstr "Contextual Help"
+
+#: option-tree/includes/ot-functions-settings-page.php:103 loco:#: 55ede19c14d725656e8b47ef
+msgid "Contextual Help Sidebar"
+msgstr "Contextual Help Sidebar"
+
+#: option-tree/includes/ot-functions-settings-page.php:103 loco:#: 55ede19c14d725656e8b47f0
+msgid ""
+"If you decide to add contextual help to the Theme Option page, enter the "
+"optional \"Sidebar\" HTML here. This would be an extremely useful place to add "
+"links to your themes documentation or support forum. Only after you've added "
+"some content below will this display to the user."
+msgstr ""
+"If you decide to add contextual help to the Theme Option page, enter the "
+"optional \"Sidebar\" HTML here. This would be an extremely useful place to add "
+"links to your themes documentation or support forum. Only after you've added "
+"some content below will this display to the user."
+
+#: option-tree/includes/ot-functions-settings-page.php:132 loco:#: 55ede19c14d725656e8b47f1
+msgid "Add Contextual Help Content"
+msgstr "Add Contextual Help Content"
+
+#: option-tree/includes/ot-functions-settings-page.php:168 loco:#: 55ede19c14d725656e8b47f2
+msgid ""
+"This import method has been deprecated. That means it has been replaced by a "
+"new method and is no longer supported, and may be removed from future "
+"versions. All themes that use this import method should be converted to use "
+"its replacement below."
+msgstr ""
+"This import method has been deprecated. That means it has been replaced by a "
+"new method and is no longer supported, and may be removed from future "
+"versions. All themes that use this import method should be converted to use "
+"its replacement below."
+
+#: option-tree/includes/ot-functions-settings-page.php:170 loco:#: 55ede19c14d725656e8b47f3
+msgid ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the upload "
+"button. A popup window will appear, upload the XML file and click \"%s\". The "
+"file URL should be in the upload input, if it is click \"Import XML\"."
+msgstr ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the upload "
+"button. A popup window will appear, upload the XML file and click \"%s\". The "
+"file URL should be in the upload input, if it is click \"Import XML\"."
+
+#: option-tree/includes/ot-functions-settings-page.php:173 loco:#: 55ede19c14d725656e8b47f4
+msgid "Import XML"
+msgstr "Import XML"
+
+#: option-tree/includes/ot-functions-settings-page.php:189 loco:#: 55ede19c14d725656e8b47f5
+msgid "Add XML"
+msgstr "Add XML"
+
+#: option-tree/includes/ot-functions-settings-page.php:226 loco:#: 55ede19c14d725656e8b47f6
+msgid ""
+"To import your Settings copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Settings\" "
+"button."
+msgstr ""
+"To import your Settings copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Settings\" "
+"button."
+
+#: option-tree/includes/ot-functions-settings-page.php:229 loco:#: 55ede19c14d725656e8b47f7
+msgid "Import Settings"
+msgstr "Import Settings"
+
+#: option-tree/includes/ot-functions-settings-page.php:271 loco:#: 55ede19c14d725656e8b47f8
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+
+#: option-tree/includes/ot-functions-settings-page.php:273 loco:#: 55ede19c14d725656e8b47f9
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+
+#: option-tree/includes/ot-functions-settings-page.php:276 loco:#: 55ede19c14d725656e8b47fa
+msgid "Import Theme Options"
+msgstr "Import Theme Options"
+
+#: option-tree/includes/ot-functions-settings-page.php:318 loco:#: 55ede19c14d725656e8b47fb
+msgid ""
+"Only after you've imported the Settings should you try and update your "
+"Layouts."
+msgstr ""
+"Only after you've imported the Settings should you try and update your "
+"Layouts."
+
+#: option-tree/includes/ot-functions-settings-page.php:320 loco:#: 55ede19c14d725656e8b47fc
+msgid ""
+"To import your Layouts copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Layouts\" "
+"button. Keep in mind that when you import your layouts, the active layout's "
+"saved data will write over the current data set for your Theme Options."
+msgstr ""
+"To import your Layouts copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Layouts\" "
+"button. Keep in mind that when you import your layouts, the active layout's "
+"saved data will write over the current data set for your Theme Options."
+
+#: option-tree/includes/ot-functions-settings-page.php:323 loco:#: 55ede19c14d725656e8b47fd
+msgid "Import Layouts"
+msgstr "Import Layouts"
+
+#: option-tree/includes/ot-functions-settings-page.php:366 loco:#: 55ede19c14d725656e8b47fe
+msgid ""
+"Export your Settings into a fully functional %s file. If you want to add your "
+"own custom %s text domain to the file, enter it into the text field before "
+"exporting. For more information on how to use this file read the "
+"documentation on %s. Remember, you should always check the file for errors "
+"before including it in your theme."
+msgstr ""
+"Export your Settings into a fully functional %s file. If you want to add your "
+"own custom %s text domain to the file, enter it into the text field before "
+"exporting. For more information on how to use this file read the "
+"documentation on %s. Remember, you should always check the file for errors "
+"before including it in your theme."
+
+#: option-tree/includes/ot-functions-settings-page.php:375 loco:#: 55ede19c14d725656e8b47ff
+msgid "Export Settings File"
+msgstr "Export Settings File"
+
+#: option-tree/includes/ot-functions-settings-page.php:405 loco:#: 55ede19c14d725656e8b4800
+msgid ""
+"Export your Settings by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the <code>"
+"OptionTree->Settings->Import</code> <strong>Settings</strong> textarea on "
+"another web site."
+msgstr ""
+"Export your Settings by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the <code>"
+"OptionTree->Settings->Import</code> <strong>Settings</strong> textarea on "
+"another web site."
+
+#: option-tree/includes/ot-functions-settings-page.php:441 loco:#: 55ede19c14d725656e8b4801
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the <"
+"code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the <"
+"code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+
+#: option-tree/includes/ot-functions-settings-page.php:477 loco:#: 55ede19c14d725656e8b4802
+msgid ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the <code>"
+"OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea on "
+"another web site."
+msgstr ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the <code>"
+"OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea on "
+"another web site."
+
+#: option-tree/includes/ot-functions-settings-page.php:519 loco:#: 55ede19c14d725656e8b4803
+msgid ""
+"To add a new layout enter a unique lower case alphanumeric string (dashes "
+"allowed) in the text field and click \"Save Layouts\"."
+msgstr ""
+"To add a new layout enter a unique lower case alphanumeric string (dashes "
+"allowed) in the text field and click \"Save Layouts\"."
+
+#: option-tree/includes/ot-functions-settings-page.php:520 loco:#: 55ede19c14d725656e8b4804
+msgid ""
+"As well, you can activate, remove, and drag & drop the order; all situations "
+"require you to click \"Save Layouts\" for the changes to be applied."
+msgstr ""
+"As well, you can activate, remove, and drag & drop the order; all situations "
+"require you to click \"Save Layouts\" for the changes to be applied."
+
+#: option-tree/includes/ot-functions-settings-page.php:521 loco:#: 55ede19c14d725656e8b4805
+msgid ""
+"When you create a new layout it will become active and any changes made to "
+"the Theme Options will be applied to it. If you switch back to a different "
+"layout immediately after creating a new layout that new layout will have a "
+"snapshot of the current Theme Options data attached to it."
+msgstr ""
+"When you create a new layout it will become active and any changes made to "
+"the Theme Options will be applied to it. If you switch back to a different "
+"layout immediately after creating a new layout that new layout will have a "
+"snapshot of the current Theme Options data attached to it."
+
+#: option-tree/includes/ot-functions-settings-page.php:522 loco:#: 55ede19c14d725656e8b4806
+msgid ""
+"Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more "
+"in-depth description of what layouts are and how to use them."
+msgstr ""
+"Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more "
+"in-depth description of what layouts are and how to use them."
+
+#: option-tree/includes/ot-functions-settings-page.php:559 loco:#: 55ede19c14d725656e8b4807
+msgid "Save Layouts"
+msgstr "Save Layouts"
+
+#: option-tree/includes/ot-settings-api.php:364 loco:55ede19c14d725656e8b4808
+msgid "Reset Options"
+msgstr "Reset Options"
+
+#: option-tree/ot-loader.php:21 loco:55ede19c14d725656e8b4809
+msgid ""
+"OptionTree is installed as a plugin and also embedded in your current theme. "
+"Please deactivate the plugin to load the theme dependent version of "
+"OptionTree, and remove this warning."
+msgstr ""
+"OptionTree is installed as a plugin and also embedded in your current theme. "
+"Please deactivate the plugin to load the theme dependent version of "
+"OptionTree, and remove this warning."
+
+#: single.php:42 loco:55ede19c14d725656e8b480a
+msgid "Tags"
+msgstr "Tags"
+
+#: single.php:67 loco:55ede19c14d725656e8b480b
+msgid "Previous post"
+msgstr "Previous post"
+
+#: single.php:80 loco:55ede19c14d725656e8b480c
+msgid "Newer post"
+msgstr "Newer post"
+
+#: templ-contact.php:61 loco:55ede19c14d725656e8b480d
+msgid "E-mail"
+msgstr "E-mail"
+
+#: templ-contact.php:65 loco:55ede19c14d725656e8b480e
+msgid "Subject"
+msgstr "Subject"
+
+#: templ-contact.php:73 loco:55ede19c14d725656e8b480f
+msgid "Post comment"
+msgstr "Post comment"
+
+#: templ-home-list.php:81 templ-home-slider-no-sidebar.php:81
+#: templ-home-slider.php:81 loco:55ede19c14d725656e8b4810
+msgid "No slides found"
+msgstr "No slides found"
+
+#: templ-home.php:157 loco:55ede19c14d725656e8b4811
+msgid "Nothing found"
+msgstr "Nothing found"
+
+#: loco:55ee524d14d72540298b4567
+msgid "Quem escreve"
+msgstr "Quem escreve"
+
+#: includes/uniwidget_about_me.php:50 loco:55ee561f14d725e32d8b4567
+msgid "About me"
+msgstr "Quem escreve"
