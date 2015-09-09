@@ -11,14 +11,7 @@ get_header();
     <?php if (have_posts()) : while (have_posts()) : the_post();
 		$aPostCustom = get_post_custom( $post->ID );
     ?>
-			<div class="pageContactImg">
-            <?php if ( has_post_thumbnail() ) { ?>
-                <?php the_post_thumbnail( 'unithumb-pagebigimage', array( 'alt' => the_title_attribute('echo=0') ) ); ?>
-            <?php } else { ?>
-			    <img src="http://placehold.it/840x560/8acace/ffffff" alt="<?php the_title_attribute() ?>" width="840" height="560">
-            <?php } ?>
-			</div>
-			<div class="pageContactDesc">
+			<div class="pageContactDesc" style="margin-top: 180px">
 				<h1><?php the_title() ?></h1>
 				<?php the_content() ?>
 			</div>
